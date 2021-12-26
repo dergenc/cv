@@ -58,8 +58,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 1. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, _"On the Security of IEEE 802.1 Time-Sensitive Networking,"_ IEEE International Conference on Communications Workshops (ICC) - Time-sensitive and Deterministic Networking, 2021, China, doi: 10.1109/ICCWorkshops50388.2021.9473542.
 2. **D. Ergenç** and M. Fischer, _"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++,"_ IEEE International Conference on Communications Workshops (ICC) - Time-sensitive and Deterministic Networking, 2021, China, pp. 1-6, doi: 10.1109/ICCWorkshops50388.2021.9473722.
 3. **D. Ergenç** and M. Fischer, _"Resilience of Virtualized Embedded Networks,"_2. KuVS Fachgespräch "Network Softwarization", 2020, Tübingen.
-4. **D. Ergenç**, and E. Onur, _"Poster: iSDR: SDR-in-the-loop Simulation,"_ IEEE Conference on Computer Communications (INFOCOM), 2019, Paris, doi: 10.1109/INFCOMW.2019.8845297.
-5. **D. Ergenç**, and E. Onur, _Cross-layer Stack Design Framework in OMNeT++,"_ 5th OMNeT++ Community Summit, 2018, Italy.
+4. **D. Ergenç** and E. Onur, _"Poster: iSDR: SDR-in-the-loop Simulation,"_ IEEE Conference on Computer Communications (INFOCOM), 2019, Paris, doi: 10.1109/INFCOMW.2019.8845297.
+5. **D. Ergenç** and E. Onur, _Cross-layer Stack Design Framework in OMNeT++,"_ 5th OMNeT++ Community Summit, 2018, Italy.
 
 # Others
 
