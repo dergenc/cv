@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Journals
 
-1. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks,"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283) in IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
+1. **D. Ergenç,** J. Rak and M. Fischer, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283](_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks,"_) in IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
 2. **D. Ergenç**, L. Eksert and E. Onur, _"Plane-separated Routing in Ad-hoc Networks,"_ Wireless Networks, 2021. (Accepted)
 3. **D. Ergenç** and E. Onur, _"Dependability-based Clustering in Mobile Ad-hoc Networks,"_ Ad Hoc Networks, vol. 93, pp. 101926, 2019.
 
