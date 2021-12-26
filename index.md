@@ -47,18 +47,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Conferences
 
-1. **D. Ergenç** and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9488750/](_"On the Reliability of IEEE 802.1CB FRER,"_) IEEE International Conference on Computer Communications (INFOCOM), 2021.
+1. **D. Ergenç** and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9488750](_"On the Reliability of IEEE 802.1CB FRER,"_) IEEE International Conference on Computer Communications (INFOCOM), 2021.
 2. N. S. Bülbül, **D. Ergenç** and M. Fischer, [https://ieeexplore.ieee.org/document/9524979](_"SDN-based Self-Configuration for Time-Sensitive IoT Networks,"_) 46th IEEE Conference on Local Computer Networks (LCN), 2021.
-3. G. Simsek, **D. Ergenç** and E. Onur, [https://ieeexplore.ieee.org/abstract/document/9477344/](_"Efficient Network Monitoring via In-band Telemetry,"_) 17th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
-4. **D. Ergenç**, J. Rak and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9153441/](_"Service-Based Resilience for Embedded IoT Networks,"_) 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
-5. **D. Ergenç**, L. Eksert and E. Onur, [https://ieeexplore.ieee.org/abstract/document/8433605/](_"Density-Aware Probabilistic Clustering in Ad Hoc Networks,"_) IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
+3. G. Simsek, **D. Ergenç** and E. Onur, [https://ieeexplore.ieee.org/abstract/document/9477344](_"Efficient Network Monitoring via In-band Telemetry,"_) 17th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
+4. **D. Ergenç**, J. Rak and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9153441](_"Service-Based Resilience for Embedded IoT Networks,"_) 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
+5. **D. Ergenç**, L. Eksert and E. Onur, [https://ieeexplore.ieee.org/abstract/document/8433605](_"Density-Aware Probabilistic Clustering in Ad Hoc Networks,"_) IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
 
 ### Workshops
 
-1. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9473542/](_"On the Security of IEEE 802.1 Time-Sensitive Networking,"_) IEEE International Conference on Communications Workshops (ICC) - Time-sensitive and Deterministic Networking, 2021.
-2. **D. Ergenç** and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9473722/](_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++,"_) IEEE International Conference on Communications Workshops (ICC) - Time-sensitive and Deterministic Networking, 2021.
+1. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9473542](_"On the Security of IEEE 802.1 Time-Sensitive Networking,"_) IEEE International Conference on Communications Workshops (ICC) - Time-sensitive and Deterministic Networking, 2021.
+2. **D. Ergenç** and M. Fischer, [https://ieeexplore.ieee.org/abstract/document/9473722](_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++,"_) IEEE International Conference on Communications Workshops (ICC) - Time-sensitive and Deterministic Networking, 2021.
 3. **D. Ergenç** and M. Fischer, [https://core.ac.uk/reader/322886120](_"Resilience of Virtualized Embedded Networks,"_) 2. KuVS Fachgespräch "Network Softwarization", 2020.
-4. **D. Ergenç** and E. Onur, [https://ieeexplore.ieee.org/abstract/document/8845297/](_"Poster: iSDR: SDR-in-the-loop Simulation,"_) IEEE Conference on Computer Communications (INFOCOM), 2019.
+4. **D. Ergenç** and E. Onur, [https://ieeexplore.ieee.org/abstract/document/8845297](_"Poster: iSDR: SDR-in-the-loop Simulation,"_) IEEE Conference on Computer Communications (INFOCOM), 2019.
 5. **D. Ergenç** and E. Onur, [https://open.metu.edu.tr/bitstream/handle/11511/43309/index.pdf](_Cross-layer Stack Design Framework in OMNeT++,"_) 5th OMNeT++ Community Summit, 2018.
 
 ### Others
