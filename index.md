@@ -37,5 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 @ergenc18cross
 
-# References
+### References
+
+1. **D. Ergenç** and M. Fischer, _"On the Reliability of IEEE 802.1CB FRER,"_ IEEE International Conference on Computer Communications (INFOCOM), 2021, doi: 10.1109/INFOCOM42981.2021.9488750.
 
