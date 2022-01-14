@@ -1,8 +1,8 @@
 I am currently a research associate in the Computer Networks group at the Universitaet Hamburg since 2019. I have received my bachelor's and master's degree at the Middle East Technical University in Turkey and involved various research projects including the areas wireless networking, programmable networks, and network security. My current research interests are resilience in time-sensitive networks, network design and optimization, P4-programmable networks. I am quite into literature, philosophy, and martial arts. You can also find me in the following platforms.
 
-<a href="asdada"> <img src="ORCID_iD.svg" width="20" height="20"> </a>
-<img src="LI-In-Bug.png" width="20" height="20">
-<img src="GitHub-Mark-Light-64px.png" width="20" height="20">
+<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"> <img src="ORCID_iD.svg" width="30" height="30"> </a>
+<img src="LI-In-Bug.png" width="40" height="30">
+<img src="GitHub-Mark-120px-plus.png" width="30" height="30">
 
 ## Education
 
