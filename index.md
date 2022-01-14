@@ -1,9 +1,21 @@
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ## Education
 
 ## Experience
+
+### Projects
+
+**Researcher**, UHH & Airbus, 2019-2022 @
+[_"DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility"_](https://delia-project.com/)
+
+**Researcher**, METU & FAME, 2018-2019 @
+Programmable Load Balancing Router via P4
+
+**Consultant**, METU & MILSOFT, 2018-2019 @
+MILSOFT HvBS-NATO ACCS Integration Program
+
+**Researcher**, METU & ASELSAN, 2017-2018 @
+Clustered Ad-hoc Networks
 
 ## Awards
 
@@ -11,9 +23,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Journals
 
-1. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), in IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
-2. **D. Ergenç**, L. Eksert and E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://arxiv.org/pdf/1807.10747), Wireless Networks, 2021. (Accepted, Preprint)
-3. **D. Ergenç** and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
+1. **D. Ergenç**, E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://doi.org/10.1007/s11276-021-02824-7), Wireless Networks, 2022.
+2. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), in IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
+3. **D. Ergenç**, L. Eksert and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
 
 ### Conferences
 
