@@ -1,55 +1,53 @@
 I am currently a research associate in the Computer Networks group at the Universitaet Hamburg since 2019. I have received my bachelor's and master's degree at the Middle East Technical University in Turkey and involved various research projects including the areas wireless networking, programmable networks, and network security. My current research interests are resilience in time-sensitive networks, network design and optimization, P4-programmable networks. I am quite into literature, philosophy, and martial arts. 
 
-<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="ORCID_iD.svg" width="30" height="30"> </a>
-<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="ORCID_iD.svg" width="30" height="30"> </a>
-<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="LI-In-Bug.png" width="28" height="30"> </a>
-<a href="https://github.com/dergenc"><img src="GitHub-Mark-120px-plus.png" width="30" height="30"> </a>
-<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="ORCID_iD.svg" width="30" height="30"> </a>
+<a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="gmail.svg" width="30" height="30"> </a>
+<a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="scholar.svg" width="30" height="30"> </a>
+<a href="https://orcid.org/0000-0003-4640-031X"><img src="orcid.svg" width="30" height="30"> </a>
+<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="linkedin.png" width="28" height="30"> </a>
+<a href="https://github.com/dergenc"><img src="github.png" width="30" height="30"> </a>
+<a href="https://www.goodreads.com/user/show/112982769-doganalp-ergenc"><img src="goodreads.svg" width="30" height="30"> </a>
 
 ## Education
 
-**Doctor of Philosophy @ Computer Science**, University of Hamburg (UHH), _2019-2022_
+_Doctor of Philosophy @ Computer Science_, University of Hamburg (UHH), 2019-2022
 
-**Master of Science @ Computer Engineering**, Middle East Technical University (METU), _2016-2018_ \
+_Master of Science @ Computer Engineering_, Middle East Technical University (METU), 2016-2018 \
 3.92/4.00 \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
 
-**Bachelor of Science @ Computer Engineering**, Middle East Technical University (METU), _2011-2016_ \
+_Bachelor of Science @ Computer Engineering_, Middle East Technical University (METU), 2011-2016 \
 3.52/4.00, Ranked 4th of 270 \
 Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
 
 ## Experience
 
-**Researcher**, UHH & Airbus, _2019-2022_ \
+_Researcher_, UHH & Airbus, 2019-2022 \
 Virtualization and time-sensitive networking at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
 
-**Researcher**, METU & FAME, _2018-2019_ \
+_Researcher_, METU & FAME, 2018-2019 \
 Design and development of programmable load balancers via P4
 
-**Consultant**, METU & MILSOFT, _2018-2019_ \
+_Consultant_, METU & MILSOFT, 2018-2019 \
 Secure communication principles at MILSOFT HvBS-NATO ACCS Integration Program
  
-**Researcher**, METU & ASELSAN, _2017-2018_ \
+_Researcher_, METU & ASELSAN, 2017-2018 \
 Clustering and routing algorithms for clustered ad-hoc networks
 
-**Software Developer**, Invicta R&D, _2016-2017_ \
+_Software Developer_, Invicta R&D, 2016-2017 \
 Network and host security modules development at [Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
 
-**Software Developer**, [Taleworlds Entertainment](https://www.taleworlds.com/), _2014-2016_ \
+_Software Developer_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
 Gameplay and UI development at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/)
 
 ## Awards
 
-INFOCOM Student Travel Grant, _2021_ \
+INFOCOM Student _Travel Grant_, 2021 
 
-Graduated with High Honor, METU, _2016_ \
-4th ranked out of 270 students
+Graduated _4th out of 270_ students at METU, 2016 
 
-Siemens Industrial Hackathon, _2016_ \
-1st place with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker)
+_1st place_ at Siemens Industrial Hackathon with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016
 
-TUBITAK Cryptoanalysis Summercamp, _2015_ \
-1st place at cryptoanalysis competition
+_1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 
 ## Publications
 
