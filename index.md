@@ -1,11 +1,11 @@
 I am currently a research associate in the Computer Networks group at the Universitaet Hamburg since 2019. I have received my bachelor's and master's degree at the Middle East Technical University in Turkey and involved various research projects including the areas wireless networking, programmable networks, and network security. My current research interests are resilience in time-sensitive networks, network design and optimization, P4-programmable networks. I am quite into literature, philosophy, and martial arts. 
 
-<a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="gmail.svg" width="30" height="30"> </a>
-<a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="scholar.svg" width="30" height="30"> </a>
-<a href="https://orcid.org/0000-0003-4640-031X"><img src="orcid.svg" width="30" height="30"> </a>
-<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="linkedin.png" width="28" height="30"> </a>
-<a href="https://github.com/dergenc"><img src="github.png" width="30" height="30"> </a>
-<a href="https://www.goodreads.com/user/show/112982769-doganalp-ergenc"><img src="goodreads.svg" width="30" height="30"> </a>
+<a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="30" height="30"> </a>
+<a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="30" height="30"> </a>
+<a href="https://orcid.org/0000-0003-4640-031X"><img src="img/orcid.svg" width="30" height="30"> </a>
+<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="img/linkedin.png" width="28" height="30"> </a>
+<a href="https://github.com/dergenc"><img src="img/github.png" width="30" height="30"> </a>
+<a href="https://www.goodreads.com/user/show/112982769-doganalp-ergenc"><img src="img/goodreads.svg" width="30" height="30"> </a>
 
 ## Education
 
