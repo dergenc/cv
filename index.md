@@ -1,21 +1,35 @@
 
 ## Education
 
+**Doctor of Philosophy @ Computer Science**, University of Hamburg (UHH), _2019-2022_
+
+**Master of Science @ Computer Engineerin**g, Middle East Technical University (METU), _2016-2018_
+3.92/4.00
+Thesis: [_"Control and User Plane Separation in Ad-hoc Networks"_](https://open.metu.edu.tr/handle/11511/27577)
+
+**Bachelor of Science @ Computer Engineering**, Middle East Technical University (METU), _2011-2016_
+3.52/4.00, Ranked 4th of 270
+Project: [_"Persona: Cross-platform Device Connectivity"_](https://senior.ceng.metu.edu.tr/2016/codemans/)
+
 ## Experience
 
 ### Projects
 
-**Researcher**, UHH & Airbus, 2019-2022 @
+1. **Researcher**, UHH & Airbus, _2019-2022_ 
 [_"DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility"_](https://delia-project.com/)
-
-**Researcher**, METU & FAME, 2018-2019 @
+2. **Researcher**, METU & FAME, _2018-2019_ 
 Programmable Load Balancing Router via P4
-
-**Consultant**, METU & MILSOFT, 2018-2019 @
+3.**Consultant**, METU & MILSOFT, _2018-2019_ 
 MILSOFT HvBS-NATO ACCS Integration Program
-
-**Researcher**, METU & ASELSAN, 2017-2018 @
+4.**Researcher**, METU & ASELSAN, _2017-2018_ 
 Clustered Ad-hoc Networks
+
+### Positions
+
+1.**Software Development Specialist**, Invicta R&D, _2017-2018_
+[_"Virtual Air Gap (VAG)"_](https://patents.google.com/patent/WO2009075656A1/ja)
+2.**Software Developer**, [_"Taleworlds Entertainment"_](https://www.taleworlds.com/), _2014-2016_
+Mount and Blade: Bannerlord II
 
 ## Awards
 
