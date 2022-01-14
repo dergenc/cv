@@ -5,31 +5,31 @@
 
 **Master of Science @ Computer Engineering**, Middle East Technical University (METU), _2016-2018_ \
 3.92/4.00 \
-Thesis: [_"Control and User Plane Separation in Ad-hoc Networks"_](https://open.metu.edu.tr/handle/11511/27577)
+Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
 
 **Bachelor of Science @ Computer Engineering**, Middle East Technical University (METU), _2011-2016_ \
 3.52/4.00, Ranked 4th of 270 \
-Project: [_"Persona: Cross-platform Device Connectivity"_](https://senior.ceng.metu.edu.tr/2016/codemans/)
+Project: ["Persona: Cross-platform Device Connectivity"](https://senior.ceng.metu.edu.tr/2016/codemans/)
 
 ## Experience
 
 **Researcher**, UHH & Airbus, _2019-2022_ \
-[_"DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility"_](https://delia-project.com/)
+[DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
 
 **Researcher**, METU & FAME, _2018-2019_ \
-Programmable Load Balancing Router via P4
+Programmable Load Balancers via P4
 
-**Consultant**, METU & MILSOFT, _2018-2019_ \ 
+**Consultant**, METU & MILSOFT, _2018-2019_ \
 MILSOFT HvBS-NATO ACCS Integration Program
 
 **Researcher**, METU & ASELSAN, _2017-2018_ \
 Clustered Ad-hoc Networks
 
 **Software Developer**, Invicta R&D, _2016-2017_ \
-[_"Virtual Air Gap (VAG)"_](https://patents.google.com/patent/WO2009075656A1/ja)
+[Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
 
-**Software Developer**, [_"Taleworlds Entertainment"_](https://www.taleworlds.com/), _2014-2016_ \
-Mount & Blade: Bannerlord II
+**Software Developer**, [Taleworlds Entertainment](https://www.taleworlds.com/), _2014-2016_ \
+[Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/)
 
 ## Awards
 
