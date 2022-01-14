@@ -1,9 +1,9 @@
 
 ## Education
 
-**Doctor of Philosophy @ Computer Science**, University of Hamburg (UHH), _2019-2022_ \
+**Doctor of Philosophy @ Computer Science**, University of Hamburg (UHH), _2019-2022_
 
-**Master of Science @ Computer Engineerin**g, Middle East Technical University (METU), _2016-2018_ \
+**Master of Science @ Computer Engineering**, Middle East Technical University (METU), _2016-2018_ \
 3.92/4.00 \
 Thesis: [_"Control and User Plane Separation in Ad-hoc Networks"_](https://open.metu.edu.tr/handle/11511/27577)
 
@@ -28,7 +28,7 @@ Clustered Ad-hoc Networks
 **Software Developer**, Invicta R&D, _2016-2017_ \
 [_"Virtual Air Gap (VAG)"_](https://patents.google.com/patent/WO2009075656A1/ja)
 
-**Software Developer**, [_"Taleworlds Entertainment"_](https://www.taleworlds.com/), _2014-2016_
+**Software Developer**, [_"Taleworlds Entertainment"_](https://www.taleworlds.com/), _2014-2016_ \
 Mount & Blade: Bannerlord II
 
 ## Awards
