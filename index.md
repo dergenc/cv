@@ -13,22 +13,22 @@ Project: [_"Persona: Cross-platform Device Connectivity"_](https://senior.ceng.m
 
 ## Experience
 
-### Projects
-
-1. **Researcher**, UHH & Airbus, _2019-2022_ 
+**Researcher**, UHH & Airbus, _2019-2022_ 
 [_"DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility"_](https://delia-project.com/)
-2. **Researcher**, METU & FAME, _2018-2019_ 
+
+**Researcher**, METU & FAME, _2018-2019_ 
 Programmable Load Balancing Router via P4
-3.**Consultant**, METU & MILSOFT, _2018-2019_ 
+
+**Consultant**, METU & MILSOFT, _2018-2019_ 
 MILSOFT HvBS-NATO ACCS Integration Program
-4.**Researcher**, METU & ASELSAN, _2017-2018_ 
+
+**Researcher**, METU & ASELSAN, _2017-2018_ 
 Clustered Ad-hoc Networks
 
-### Positions
-
-1.**Software Development Specialist**, Invicta R&D, _2017-2018_
+**Software Development Specialist**, Invicta R&D, _2016-2017_
 [_"Virtual Air Gap (VAG)"_](https://patents.google.com/patent/WO2009075656A1/ja)
-2.**Software Developer**, [_"Taleworlds Entertainment"_](https://www.taleworlds.com/), _2014-2016_
+
+**Software Developer**, [_"Taleworlds Entertainment"_](https://www.taleworlds.com/), _2014-2016_
 Mount and Blade: Bannerlord II
 
 ## Awards
