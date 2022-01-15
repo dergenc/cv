@@ -9,34 +9,32 @@ I am currently a research associate in the Computer Networks group at the Univer
 
 ## Education
 
-_PhD @ Computer Science_, University of Hamburg (UHH), 2019-2022
+_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2022
 
-_MSc @ Computer Engineering_, Middle East Technical University (METU), 2016-2018 \
-3.92/4.00 \
+_**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, 3.92/4.00 \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
 
-_BSc @ Computer Engineering_, Middle East Technical University (METU), 2011-2016 \
-3.52/4.00, Ranked 4th of 270 \
+_**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-2016, 3.52/4.00 \
 Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
 
 ## Experience
 
-_Researcher_, UHH & Airbus, 2019-2022 \
-Design and development of virtualization modules and time-sensitive networking protocols at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
+_**Researcher**_, UHH & Airbus, 2019-2022 \
+Research and development of embedded virtualization and time-sensitive networking at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
 
-_Researcher_, METU & [FAME](https://www.famecrypt.com.tr/), 2018-2019 \
+_**Researcher**_, METU & [FAME](https://www.famecrypt.com.tr/), 2018-2019 \
 Design and development of programmable load balancers via P4
 
-_Consultant_, METU & [MilSOFT](https://www.milsoft.com.tr/index.php/home/), 2018-2019 \
+_**Consultant**_, METU & [MilSOFT](https://www.milsoft.com.tr/index.php/home/), 2018-2019 \
 Design of secure communication modules at MILSOFT HvBS-NATO ACCS Integration Program
  
-_Researcher_, METU & [ASELSAN](https://www.aselsan.com.tr/en), 2017-2018 \
+_**Researcher**_, METU & [ASELSAN](https://www.aselsan.com.tr/en), 2017-2018 \
 Design and evaluation of clustering and routing algorithms for hierarchical ad-hoc networks
 
-_Software Developer_, Invicta R&D, 2016-2017 \
+_**Software Developer**_, Invicta R&D, 2016-2017 \
 Development of network and host security modules at [Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
 
-_Software Developer_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
+_**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
 Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/)
 
 ## Awards
