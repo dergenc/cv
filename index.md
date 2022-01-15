@@ -1,4 +1,4 @@
-I am currently a research associate in the Computer Networks group at the Universitaet Hamburg since 2019. I have received my bachelor's and master's degree at the Middle East Technical University in Turkey and involved various research projects including the areas wireless networking, programmable networks, and network security. My current research interests are resilience in time-sensitive networks, network design and optimization, P4-programmable networks. I am quite into literature, philosophy, and martial arts. 
+I am currently a research associate in the Computer Networks group at the Universitaet Hamburg since 2019. I have received my bachelor's and master's degree at the Middle East Technical University in Turkey and involved various research projects including the areas wireless networking, programmable networks, and network security. My current research interests are resilience in time-sensitive networks, network optimization, and P4-programmable networks. I am quite into literature, philosophy, and martial arts. 
 
 <a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="20" height="20"> </a>
 <a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="20" height="20"> </a>
@@ -22,22 +22,22 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 ## Experience
 
 _Researcher_, UHH & Airbus, 2019-2022 \
-Virtualization and time-sensitive networking at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
+Design and development of virtualization modules and time-sensitive networking protocols at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
 
-_Researcher_, METU & FAME, 2018-2019 \
+_Researcher_, METU & [FAME](https://www.famecrypt.com.tr/), 2018-2019 \
 Design and development of programmable load balancers via P4
 
-_Consultant_, METU & MILSOFT, 2018-2019 \
-Secure communication principles at MILSOFT HvBS-NATO ACCS Integration Program
+_Consultant_, METU & [MilSOFT](https://www.milsoft.com.tr/index.php/home/), 2018-2019 \
+Design of secure communication modules at MILSOFT HvBS-NATO ACCS Integration Program
  
-_Researcher_, METU & ASELSAN, 2017-2018 \
-Clustering and routing algorithms for clustered ad-hoc networks
+_Researcher_, METU & [ASELSAN](https://www.aselsan.com.tr/en), 2017-2018 \
+Design and evaluation of clustering and routing algorithms for hierarchical ad-hoc networks
 
 _Software Developer_, Invicta R&D, 2016-2017 \
-Network and host security modules development at [Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
+Development of network and host security modules at [Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
 
 _Software Developer_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
-Gameplay and UI development at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/)
+Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/)
 
 ## Awards
 
@@ -45,7 +45,7 @@ INFOCOM _Student Travel Grant_, 2021
 
 Graduated _4th out of 270_ students at METU, 2016 
 
-_1st place_ at Siemens Industrial Hackathon with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016
+_1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016
 
 _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 
