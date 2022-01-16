@@ -11,10 +11,10 @@ I am currently a research associate in the Computer Networks group at the Univer
 
 _**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2022
 
-_**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, 3.92/4.00 \
+_**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
 
-_**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-2016, 3.52/4.00 \
+_**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-2016, _GPA: 3.52/4.00_ \
 Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
 
 ## Experience
@@ -85,4 +85,6 @@ _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 
   gtag('config', 'G-CPCP5MQ1S6');
 </script>
+
+<meta name="google-site-verification" content="IriHJnW72geya_zmeEwQQqwy850MJHJJSE0lrq7sLV4" />
 
