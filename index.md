@@ -9,7 +9,7 @@ I am a research associate in the Computer Networks group at the Universitaet Ham
 
 ## Education
 
-_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2022
+_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2022 (expected)
 
 _**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
