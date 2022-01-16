@@ -76,6 +76,8 @@ _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 1. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
 2. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814),2019, Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global.
 
+<meta name="google-site-verification" content="IriHJnW72geya_zmeEwQQqwy850MJHJJSE0lrq7sLV4" />
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CPCP5MQ1S6"></script>
 <script>
