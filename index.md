@@ -1,4 +1,4 @@
-I am currently a research associate in the Computer Networks group at the Universitaet Hamburg since 2019. I have received my bachelor's and master's degree at the Middle East Technical University in Turkey and involved various research projects including the areas wireless networking, programmable networks, and network security. My current research interests are resilience in time-sensitive networks, network optimization, and P4-programmable networks. I am quite into literature, philosophy, and martial arts. 
+I am a research associate in the Computer Networks group at the Universitaet Hamburg since 2019. I have received my bachelor's and master's degree at the Middle East Technical University in Turkey and involved various research projects including the areas wireless networking, programmable networks, and network security. My current research interests are resilience in time-sensitive networks, network optimization, and P4-programmable networks. I am quite into literature, philosophy, and martial arts. 
 
 <a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="20" height="20"> </a>
 <a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="20" height="20"> </a>
@@ -9,7 +9,7 @@ I am currently a research associate in the Computer Networks group at the Univer
 
 ## Education
 
-_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2022
+_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2022 (expected)
 
 _**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
