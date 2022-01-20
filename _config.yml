@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Doğanalp Ergenç
 google-analytics-id: G-CPCP5MQ1S6
 logo: img/pp.jpg
+gems:
+  -jekyll-sitemap
