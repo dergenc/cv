@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dergenc.github.io/cv/sitemap.xml
