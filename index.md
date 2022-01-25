@@ -19,7 +19,7 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 ## Experience
 
-_**Researcher**_, UHH & Airbus, 2019-2022 \
+_**Research Associate**_, UHH & Airbus, 2019-2022 \
 Research and development of embedded virtualization and time-sensitive networking at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
 
 _**Researcher**_, METU & [FAME](https://www.famecrypt.com.tr/), 2018-2019 \
