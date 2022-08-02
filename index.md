@@ -57,12 +57,14 @@ _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 
 ### Conferences
 
-1. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://noms2022.ieee-noms.org/), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. (Accepted)
-2. **D. Ergenç** and M. Fischer, [_"On the Reliability of IEEE 802.1CB FRER"_](https://ieeexplore.ieee.org/abstract/document/9488750), IEEE International Conference on Computer Communications (INFOCOM), 2021.
-3. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"SDN-based Self-Configuration for Time-Sensitive IoT Networks"_](https://ieeexplore.ieee.org/document/9524979), 46th IEEE Conference on Local Computer Networks (LCN), 2021.
-4. G. Simsek, **D. Ergenç** and E. Onur, [_"Efficient Network Monitoring via In-band Telemetry"_](https://ieeexplore.ieee.org/abstract/document/9477344), 18th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
-5. **D. Ergenç**, J. Rak and M. Fischer, [_"Service-Based Resilience for Embedded IoT Networks"_](https://ieeexplore.ieee.org/abstract/document/9153441), 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
-6. **D. Ergenç**, L. Eksert and E. Onur, [_"Density-Aware Probabilistic Clustering in Ad Hoc Networks"_](https://ieeexplore.ieee.org/abstract/document/8433605), IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
+1. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://globecom2022.ieee-globecom.org/), IEEE Global Communications Conference (GLOBECOM), 2022. (Accepted)
+2. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://globecom2022.ieee-globecom.org/), IEEE Global Communications Conference (GLOBECOM), 2022. (Accepted)
+3. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://noms2022.ieee-noms.org/), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
+4. **D. Ergenç** and M. Fischer, [_"On the Reliability of IEEE 802.1CB FRER"_](https://ieeexplore.ieee.org/abstract/document/9488750), IEEE International Conference on Computer Communications (INFOCOM), 2021.
+5. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"SDN-based Self-Configuration for Time-Sensitive IoT Networks"_](https://ieeexplore.ieee.org/document/9524979), 46th IEEE Conference on Local Computer Networks (LCN), 2021.
+6. G. Simsek, **D. Ergenç** and E. Onur, [_"Efficient Network Monitoring via In-band Telemetry"_](https://ieeexplore.ieee.org/abstract/document/9477344), 18th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
+7. **D. Ergenç**, J. Rak and M. Fischer, [_"Service-Based Resilience for Embedded IoT Networks"_](https://ieeexplore.ieee.org/abstract/document/9153441), 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
+8. **D. Ergenç**, L. Eksert and E. Onur, [_"Density-Aware Probabilistic Clustering in Ad Hoc Networks"_](https://ieeexplore.ieee.org/abstract/document/8433605), IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
 
 ### Workshops
 
