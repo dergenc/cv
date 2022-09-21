@@ -72,9 +72,9 @@ _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 2.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
 3. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
 4. **D. Ergenç** and M. Fischer, [_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++"_](https://ieeexplore.ieee.org/abstract/document/9473722), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
-5. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://uni-tuebingen.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NDMxMzMxMDIsImV4cCI6MTY0MzIyMzA5OCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW5cL1VuaV9UdWViaW5nZW5cL0Zha3VsdGFldGVuXC9JbmZvS29nbmlcL1dTSVwvS05cL0Rva3VtZW50ZVwvS3VWU1wvMjAyMFwvZXJnZW5jMjB0dWJpbmdlbi5wZGYiLCJwYWdlIjoxNzQ1MTl9.k8cUG5NzCIG9cdidqy3Glrd-B1jPUlBvUikAwQo2Li0/ergenc20tubingen.pdf), 2. KuVS Fachgespräch "Network Softwarization", 2020.
+5. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
 6. **D. Ergenç** and E. Onur, [_"Poster: iSDR: SDR-in-the-loop Simulation"_](https://ieeexplore.ieee.org/abstract/document/8845297), IEEE Conference on Computer Communications (INFOCOM), 2019.
-7. **D. Ergenç** and E. Onur, [_Cross-layer Stack Design Framework in OMNeT++"_](https://open.metu.edu.tr/bitstream/handle/11511/43309/index.pdf), 5th OMNeT++ Community Summit, 2018.
+7. **D. Ergenç** and E. Onur, [_Cross-layer Stack Design Framework in OMNeT++"_](https://easychair.org/publications/paper/Sklb), 5th OMNeT++ Community Summit, 2018.
 
 ### Others
 
