@@ -47,6 +47,14 @@ _1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens
 
 _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 
+## Certificates and Courses
+
+Mental Clarity & Decision Making, Hamburg Research Academy, 2023.
+
+Presentation and Public Speaking for Virtual Stage, Hamburg Research Academy, 2021.
+
+Self- and Time Management, Hamburg Research Academy, 2021.
+
 ## Publications
 
 ### Journals
@@ -57,26 +65,29 @@ _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 
 ### Conferences
 
-1. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://globecom2022.ieee-globecom.org/), IEEE Global Communications Conference (GLOBECOM), 2022. (Accepted)
-2. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://globecom2022.ieee-globecom.org/), IEEE Global Communications Conference (GLOBECOM), 2022. (Accepted)
-3. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://noms2022.ieee-noms.org/), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
-4. **D. Ergenç** and M. Fischer, [_"On the Reliability of IEEE 802.1CB FRER"_](https://ieeexplore.ieee.org/abstract/document/9488750), IEEE International Conference on Computer Communications (INFOCOM), 2021.
-5. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"SDN-based Self-Configuration for Time-Sensitive IoT Networks"_](https://ieeexplore.ieee.org/document/9524979), 46th IEEE Conference on Local Computer Networks (LCN), 2021.
-6. G. Simsek, **D. Ergenç** and E. Onur, [_"Efficient Network Monitoring via In-band Telemetry"_](https://ieeexplore.ieee.org/abstract/document/9477344), 18th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
-7. **D. Ergenç**, J. Rak and M. Fischer, [_"Service-Based Resilience for Embedded IoT Networks"_](https://ieeexplore.ieee.org/abstract/document/9153441), 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
-8. **D. Ergenç**, L. Eksert and E. Onur, [_"Density-Aware Probabilistic Clustering in Ad Hoc Networks"_](https://ieeexplore.ieee.org/abstract/document/8433605), IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
+1. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), International Conference on Computer Communications and Networks (ICCCN), 2023. (submitted)
+2. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
+3. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
+4. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://noms2022.ieee-noms.org/), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
+5. **D. Ergenç** and M. Fischer, [_"On the Reliability of IEEE 802.1CB FRER"_](https://ieeexplore.ieee.org/abstract/document/9488750), IEEE International Conference on Computer Communications (INFOCOM), 2021.
+6. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"SDN-based Self-Configuration for Time-Sensitive IoT Networks"_](https://ieeexplore.ieee.org/document/9524979), 46th IEEE Conference on Local Computer Networks (LCN), 2021.
+7. G. Simsek, **D. Ergenç** and E. Onur, [_"Efficient Network Monitoring via In-band Telemetry"_](https://ieeexplore.ieee.org/abstract/document/9477344), 18th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
+8. **D. Ergenç**, J. Rak and M. Fischer, [_"Service-Based Resilience for Embedded IoT Networks"_](https://ieeexplore.ieee.org/abstract/document/9153441), 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
+9. **D. Ergenç**, L. Eksert and E. Onur, [_"Density-Aware Probabilistic Clustering in Ad Hoc Networks"_](https://ieeexplore.ieee.org/abstract/document/8433605), IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
 
 ### Workshops
 
-1. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
-2.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
-3. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
-4. **D. Ergenç** and M. Fischer, [_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++"_](https://ieeexplore.ieee.org/abstract/document/9473722), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
-5. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
-6. **D. Ergenç** and E. Onur, [_"Poster: iSDR: SDR-in-the-loop Simulation"_](https://ieeexplore.ieee.org/abstract/document/8845297), IEEE Conference on Computer Communications (INFOCOM), 2019.
-7. **D. Ergenç** and E. Onur, [_Cross-layer Stack Design Framework in OMNeT++"_](https://easychair.org/publications/paper/Sklb), 5th OMNeT++ Community Summit, 2018.
+1. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://networking.ifip.org/2023/index.php/workshops/tensor), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023. (submitted)
+2. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
+3.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
+4. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
+5. **D. Ergenç** and M. Fischer, [_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++"_](https://ieeexplore.ieee.org/abstract/document/9473722), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
+6. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
+7. **D. Ergenç** and E. Onur, [_"Poster: iSDR: SDR-in-the-loop Simulation"_](https://ieeexplore.ieee.org/abstract/document/8845297), IEEE Conference on Computer Communications (INFOCOM), 2019.
+8. **D. Ergenç** and E. Onur, [_Cross-layer Stack Design Framework in OMNeT++"_](https://easychair.org/publications/paper/Sklb), 5th OMNeT++ Community Summit, 2018.
 
 ### Others
 
-1. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
-2. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), 2019, Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global.
+1. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_]([https://arxiv.org/pdf/1912.12220](https://arxiv.org/abs/2212.14876)), 2022, arXiv preprint	arXiv:2212.14876.
+2. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
+3. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), 2019, Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global.
