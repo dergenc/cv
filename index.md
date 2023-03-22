@@ -9,7 +9,7 @@ I am a research associate in the Computer Networks (NET) group (formerly ISS) at
 
 ## Education
 
-_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2022 (expected)
+_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2023 (expected)
 
 _**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
@@ -65,7 +65,7 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Conferences
 
-1. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), International Conference on Computer Communications and Networks (ICCCN), 2023. (submitted)
+1. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), International Conference on Computer Communications and Networks (ICCCN), 2023. (submitted, preprint available at https://arxiv.org/abs/2303.09893)
 2. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
 3. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
 4. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://noms2022.ieee-noms.org/), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
@@ -77,7 +77,7 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Workshops
 
-1. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://networking.ifip.org/2023/index.php/workshops/tensor), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023. (submitted)
+1. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://networking.ifip.org/2023/index.php/workshops/tensor), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023. (submitted, preprint available at https://arxiv.org/abs/2303.11492)
 2. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
 3.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
 4. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
