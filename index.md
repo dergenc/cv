@@ -75,7 +75,7 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 8. **D. Ergenç**, J. Rak and M. Fischer, [_"Service-Based Resilience for Embedded IoT Networks"_](https://ieeexplore.ieee.org/abstract/document/9153441), 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
 9. **D. Ergenç**, L. Eksert and E. Onur, [_"Density-Aware Probabilistic Clustering in Ad Hoc Networks"_](https://ieeexplore.ieee.org/abstract/document/8433605), IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
 
-### (International) Workshops, Posters, Demos
+### Workshops, Posters, Demos
 
 1. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://netsoft2023.ieee-netsoft.org/), 9th IEEE International Conference on Network Softwarization, 2023. (submitted, [preprint available](https://arxiv.org/abs/2304.00128))
 2. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://networking.ifip.org/2023/index.php/workshops/tensor), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023. (submitted, [preprint available](https://arxiv.org/abs/2303.11492))
