@@ -1,4 +1,4 @@
-I am a research associate in the Computer Networks (NET) group (formerly ISS) at the University of Hamburg since 2019. I have received my bachelor and master degrees at the METU, Turkey and involved various research projects including the areas of wireless networking, programmable networks, and network security. My current research interests are the resilience of next-generation critical networks particularly focusing on flexible service-oriented architecture and time-sensitive networking technologies. I am quite into literature, philosophy, and martial arts. 
+I am a research associate in the Computer Networks (NET) group (formerly ISS) at the University of Hamburg. I have been involved in various research projects for the last six years, including wireless networking, programmable networks, and network security and resilience. My current research interest is building failure- and attack-resilient mission-critical networks,  particularly leveraging service-oriented architecture and IEEE 802.1 Time-sensitive Networking technologies. I am quite into literature, paintings, and martial arts. I am also a not-so-proud but trying-hard dog owner!
 
 <a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="20" height="20"> </a>
 <a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="20" height="20"> </a>
@@ -18,6 +18,9 @@ _**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-
 Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
 
 ## Experience
+
+_**Research Associate**_, UHH & Airbus, 2023- \
+Research and development of zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html)
 
 _**Research Associate**_, UHH & Airbus, 2019-2022 \
 Research and development of embedded virtualization and time-sensitive networking at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
