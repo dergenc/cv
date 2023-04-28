@@ -68,7 +68,7 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Conferences
 
-1. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), International Conference on Computer Communications and Networks (ICCCN), 2023. (submitted, [preprint available](https://arxiv.org/abs/2303.09893))
+1. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), International Conference on Computer Communications and Networks (ICCCN), 2023. (accepted, [preprint available](https://arxiv.org/abs/2303.09893))
 2. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
 3. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
 4. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://noms2022.ieee-noms.org/), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
@@ -80,8 +80,8 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Workshops, Posters, Demos
 
-1. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://netsoft2023.ieee-netsoft.org/), 9th IEEE International Conference on Network Softwarization, 2023. (submitted, [preprint available](https://arxiv.org/abs/2304.00128))
-2. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://networking.ifip.org/2023/index.php/workshops/tensor), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023. (submitted, [preprint available](https://arxiv.org/abs/2303.11492))
+1. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://netsoft2023.ieee-netsoft.org/), 9th IEEE International Conference on Network Softwarization, 2023. (accepted, [preprint available](https://arxiv.org/abs/2304.00128))
+2. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://networking.ifip.org/2023/index.php/workshops/tensor), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023. (accepted, [preprint available](https://arxiv.org/abs/2303.11492))
 3.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
 4. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
 5. **D. Ergenç** and M. Fischer, [_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++"_](https://ieeexplore.ieee.org/abstract/document/9473722), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
