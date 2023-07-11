@@ -20,7 +20,7 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 ## Experience
 
-_**Research Associate**_, UHH & Airbus, 2023- \
+_**Research Associate**_, UHH & Airbus, 2023 \
 Research and development of zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html)
 
 _**Research Associate**_, UHH & Airbus, 2019-2022 \
