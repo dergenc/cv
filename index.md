@@ -9,8 +9,8 @@ I am a research associate in the Computer Networks (NET) group (formerly ISS) at
 
 ## Education
 
-_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2023, _Summa cum laude_ \
-Thesis: Resilience of Service-oriented and Time-sensitive Mission-critical Networks
+_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2023, _Summa cum Laude_ \
+Thesis: [Resilience of Service-oriented and Time-sensitive Mission-critical Networks](https://ediss.sub.uni-hamburg.de/handle/ediss/10356)
 
 _**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
