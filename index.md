@@ -20,7 +20,7 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 ## Experience
 
-_**Research Associate**_, TU Berlin, 2023
+_**Research Associate**_, TU Berlin, 2023-2025 \
 Coordinating the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/)
 
 _**Research Associate**_, UHH & Airbus, 2023 \
@@ -45,6 +45,8 @@ _**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/
 Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/)
 
 ## Awards
+
+Graduated PhD with _Summa cum Laude_
 
 INFOCOM _Student Travel Grant_, 2021 
 
