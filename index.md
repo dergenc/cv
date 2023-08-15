@@ -1,4 +1,4 @@
-I am a research associate in the Computer Networks (NET) group (formerly ISS) at the University of Hamburg. I have been involved in various research projects for the last six years, including wireless networking, programmable networks, and network security and resilience. My current research interest is building failure- and attack-resilient mission-critical networks,  particularly leveraging service-oriented architecture and IEEE 802.1 Time-sensitive Networking technologies. I am quite into literature, paintings, and martial arts. I am also a not-so-proud but trying-hard dog owner!
+I am a research associate in the Telecommunication Networks (TKN) group at the TU Berlin. I have been involved in various research projects for the last six years, including wireless networking, programmable networks, and network security and resilience. My current research interest is building failure- and attack-resilient mission-critical networks, particularly leveraging service-oriented architecture and wired/wireless IEEE 802.1 Time-sensitive Networking technologies. I am quite into literature, paintings, and martial arts. 
 
 <a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="20" height="20"> </a>
 <a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="20" height="20"> </a>
@@ -19,6 +19,9 @@ _**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-
 Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
 
 ## Experience
+
+_**Research Associate**_, TU Berlin, 2023
+Coordinating the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/)
 
 _**Research Associate**_, UHH & Airbus, 2023 \
 Research and development of zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html)
