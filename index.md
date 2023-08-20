@@ -86,8 +86,8 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Workshops, Posters, Demos
 
-1. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://arxiv.org/abs/2304.00128), 9th IEEE International Conference on Network Softwarization, 2023. (accepted, [preprint available](https://arxiv.org/abs/2304.00128))
-2. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://arxiv.org/abs/2303.11492), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023. (accepted, [preprint available](https://arxiv.org/abs/2303.11492))
+1. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://ieeexplore.ieee.org/document/10175408), 9th IEEE International Conference on Network Softwarization (NetSoft), 2023. 
+2. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://ieeexplore.ieee.org/document/10186421), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023.
 3.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
 4. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
 5. **D. Ergenç** and M. Fischer, [_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++"_](https://ieeexplore.ieee.org/abstract/document/9473722), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
@@ -96,10 +96,11 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Others
 
-1. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_]([https://arxiv.org/pdf/1912.12220](https://arxiv.org/abs/2212.14876)), 2022, arXiv preprint	arXiv:2212.14876.
-2. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
-3. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
-4. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
-5. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
-6. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
+1. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, "Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking", International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. (accepted, [preprint available](https://arxiv.org/abs/2303.09893))
+2. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_]([https://arxiv.org/pdf/1912.12220](https://arxiv.org/abs/2212.14876)), arXiv preprint	arXiv:2212.14876, 2022.
+3. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
+4. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
+5. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
+6. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
+7. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
 
