@@ -3,7 +3,7 @@ I am a research associate in the Telecommunication Networks (TKN) group at the T
 <a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="20" height="20"> </a>
 <a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="20" height="20"> </a>
 <a href="https://orcid.org/0000-0003-4640-031X"><img src="img/orcid.svg" width="20" height="20"> </a>
-<a href="https://linkedin.com/in/doğanalp-ergenç-89ba3b226"><img src="img/linkedin.png" width="20" height="20"> </a>
+<a href="https://www.linkedin.com/in/doganalpergenc/"><img src="img/linkedin.png" width="20" height="20"> </a>
 <a href="https://github.com/dergenc"><img src="img/github.png" width="20" height="20"> </a>
 <a href="https://www.goodreads.com/user/show/112982769-doganalp-ergenc"><img src="img/goodreads.svg" width="20" height="20"> </a>
 
@@ -20,7 +20,7 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 ## Experience
 
-_**Research Associate**_, TU Berlin, 2023-2025 \
+_**Postdoctoral Researcher**_, TU Berlin, 2023-2025 \
 Coordinating the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/)
 
 _**Research Associate**_, UHH & Airbus, 2023 \
