@@ -74,7 +74,7 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Conferences
 
-1. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://arxiv.org/abs/2303.09893), International Conference on Computer Communications and Networks (ICCCN), 2023. (accepted, [preprint available](https://arxiv.org/abs/2303.09893))
+1. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/document/10230175), International Conference on Computer Communications and Networks (ICCCN), 2023. 
 2. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
 3. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
 4. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://ieeexplore.ieee.org/document/9789890), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
@@ -96,7 +96,7 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ### Others
 
-1. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, "Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking", International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. (accepted, [preprint available](https://arxiv.org/abs/2303.09893))
+1. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
 2. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_]([https://arxiv.org/pdf/1912.12220](https://arxiv.org/abs/2212.14876)), arXiv preprint	arXiv:2212.14876, 2022.
 3. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
 4. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
