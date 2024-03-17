@@ -1,4 +1,6 @@
-I am a research associate in the Telecommunication Networks (TKN) group at the TU Berlin. I have been involved in various research projects for the last six years, including wireless networking, programmable networks, and network security and resilience. My current research interest is building failure- and attack-resilient mission-critical networks, particularly leveraging service-oriented architecture and wired/wireless IEEE 802.1 Time-sensitive Networking technologies. I am quite into literature, paintings, and martial arts. 
+I am a postdoctoral researcher in the Telecommunication Networks (TKN) group at the TU Berlin. I have been involved in various research projects for the last six years, including wireless networking, programmable networks, and network security and resilience. My current research interest is building failure- and attack-resilient mission-critical networks, particularly leveraging wired/wireless IEEE 802.1 Time-sensitive Networking (TSN) technologies. 
+
+I like developing software to make my own life easier. I am also quite into literary criticism.
 
 <a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="20" height="20"> </a>
 <a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="20" height="20"> </a>
@@ -22,46 +24,44 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 _**Postdoctoral Researcher**_, TU Berlin, 2023-2025 \
 Coordinating the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/)
+Co-coordinating a working group in the BMBF-funded [6G-Platform Germany}(https://www.6g-platform.com/)
 
 _**Research Associate**_, UHH & Airbus, 2023 \
-Research and development of zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html)
+Research on zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html)
 
 _**Research Associate**_, UHH & Airbus, 2019-2022 \
-Research and development of embedded virtualization and time-sensitive networking at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
+Research on virtualized and time-sensitive critical systems at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/)
 
 _**Researcher**_, METU & [FAME](https://www.famecrypt.com.tr/), 2018-2019 \
-Design and development of programmable load balancers via P4
+Research and development of programmable data center networks
 
 _**Consultant**_, METU & [MilSOFT](https://www.milsoft.com.tr/index.php/home/), 2018-2019 \
-Design of secure communication modules at MILSOFT HvBS-NATO ACCS Integration Program
+Research and desgin of secure communication modules at MILSOFT HvBS-NATO ACCS Integration Program
  
 _**Researcher**_, METU & [ASELSAN](https://www.aselsan.com.tr/en), 2017-2018 \
 Design and evaluation of clustering and routing algorithms for hierarchical ad-hoc networks
 
 _**Software Developer**_, Invicta R&D, 2016-2017 \
-Development of network and host security modules at [Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
+Development of network- and host-based security and access control mechanisms for critical systems at [Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
 
-_**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
-Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/)
+<!-- _**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
+Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) --> 
 
 ## Awards
 
-Graduated PhD with _Summa cum Laude_
-
+PhD with distinction, 2023
 INFOCOM _Student Travel Grant_, 2021 
-
 Graduated _4th out of 270_ students at METU, 2016 
-
 _1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016
-
 _1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
 
 ## Certificates and Courses
 
+Paid to research: how to prepare successful fellowship applications, TUB Scientific Continuing Education, 2024. 
+Academic Choices - Achieving Success, Berlin University Alliance, 2023.
 Mental Clarity & Decision Making, Hamburg Research Academy, 2023.
-
+Funding Opportunities in the Postdoctoral Phase, Hamburg Research Academy, 2023.
 Presentation and Public Speaking for Virtual Stage, Hamburg Research Academy, 2021.
-
 Self- and Time Management, Hamburg Research Academy, 2021.
 
 ## Publications
