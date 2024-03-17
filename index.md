@@ -24,7 +24,7 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 _**Postdoctoral Researcher**_, TU Berlin, 2023-2025 \
 Coordinating the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/)
-Co-coordinating a working group in the BMBF-funded [6G-Platform Germany}(https://www.6g-platform.com/)
+Co-coordinating a working group in the BMBF-funded [6G-Platform Germany](https://www.6g-platform.com/)
 
 _**Research Associate**_, UHH & Airbus, 2023 \
 Research on zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html)
