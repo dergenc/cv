@@ -49,19 +49,18 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ## Awards
 
-PhD with distinction, 2023
-INFOCOM _Student Travel Grant_, 2021 
-Graduated _4th out of 270_ students at METU, 2016 
-_1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016
-_1st place_ at cryptoanalysis competition TUBITAK Cryptography Camp, 2015
+PhD with distinction, 2023 \
+INFOCOM _Student Travel Grant_, 2021  \
+Graduated _4th out of 270_ students at METU, 2016  \
+_1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016 
 
 ## Certificates and Courses
 
-Paid to research: how to prepare successful fellowship applications, TUB Scientific Continuing Education, 2024. 
-Academic Choices - Achieving Success, Berlin University Alliance, 2023.
-Mental Clarity & Decision Making, Hamburg Research Academy, 2023.
-Funding Opportunities in the Postdoctoral Phase, Hamburg Research Academy, 2023.
-Presentation and Public Speaking for Virtual Stage, Hamburg Research Academy, 2021.
+Paid to research: how to prepare successful fellowship applications, TUB Scientific Continuing Education, 2024. \
+Academic Choices - Achieving Success, Berlin University Alliance, 2023. \
+Mental Clarity & Decision Making, Hamburg Research Academy, 2023. \
+Funding Opportunities in the Postdoctoral Phase, Hamburg Research Academy, 2023. \
+Presentation and Public Speaking for Virtual Stage, Hamburg Research Academy, 2021. \
 Self- and Time Management, Hamburg Research Academy, 2021.
 
 ## Publications
@@ -103,4 +102,6 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 5. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
 6. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
 7. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
+
+## Professional Activities
 
