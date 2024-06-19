@@ -47,22 +47,6 @@ Development of network- and host-based security and access control mechanisms fo
 <!-- _**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
 Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) --> 
 
-## Awards
-
-PhD with distinction, 2023 \
-INFOCOM _Student Travel Grant_, 2021  \
-Graduated _4th out of 270_ students at METU, 2016  \
-_1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016 
-
-## Certificates and Courses
-
-Paid to research: how to prepare successful fellowship applications, TUB Scientific Continuing Education, 2024. \
-Academic Choices - Achieving Success, Berlin University Alliance, 2023. \
-Mental Clarity & Decision Making, Hamburg Research Academy, 2023. \
-Funding Opportunities in the Postdoctoral Phase, Hamburg Research Academy, 2023. \
-Presentation and Public Speaking for Virtual Stage, Hamburg Research Academy, 2021. \
-Self- and Time Management, Hamburg Research Academy, 2021.
-
 ## Publications
 
 ### Journals
@@ -105,3 +89,18 @@ Self- and Time Management, Hamburg Research Academy, 2021.
 
 ## Professional Activities
 
+## Awards
+
+PhD with distinction, 2023 \
+INFOCOM _Student Travel Grant_, 2021  \
+Graduated _4th out of 270_ students at METU, 2016  \
+_1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016 
+
+## Certificates and Courses
+
+Paid to research: how to prepare successful fellowship applications, TUB Scientific Continuing Education, 2024. \
+Academic Choices - Achieving Success, Berlin University Alliance, 2023. \
+Mental Clarity & Decision Making, Hamburg Research Academy, 2023. \
+Funding Opportunities in the Postdoctoral Phase, Hamburg Research Academy, 2023. \
+Presentation and Public Speaking for Virtual Stage, Hamburg Research Academy, 2021. \
+Self- and Time Management, Hamburg Research Academy, 2021.
