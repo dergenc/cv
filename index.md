@@ -27,11 +27,11 @@ Research and development on wireless time-sensitive networks at [OWTSN: Open Wir
 Coordinating the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/) \
 Co-coordinating a working group in the BMBF-funded [6G-Platform Germany](https://www.6g-platform.com/)
 
-_**Research Associate**_, UHH, 2019-2023 \
+_**Doctoral Researcher**_, UHH, 2019-2023 \
 Research on zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html) \
 Research on virtualized and time-sensitive critical systems at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/) 
 
-_**Researcher**_, METU, 2017-2019 \
+_**Junior Researcher**_, METU, 2017-2019 \
 Research and development on programmable load balancers in [FAME](https://www.famecrypt.com.tr/) \
 Designing secure communication modules at [MilSOFT](https://www.milsoft.com.tr/index.php/home/) HvBS-NATO ACCS Integration Program \
 Research on clustering and routing algorithms for hierarchical mobile ad-hoc networks in [ASELSAN](https://www.aselsan.com.tr/en) 
@@ -85,7 +85,24 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 6. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
 7. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
 
+### Open-source Software
+
+1. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networks based on Zeek.
+2. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
+
 ## Professional Activities
+
+### Supervision
+
+1. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Master Thesis, TU Berlin, 2024 (ongoing).
+2. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
+3. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
+4. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
+5. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
+6. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
+7. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
+
+### Organizational
 
 [Publicity Chair](https://2025.wons-conference.org/), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025. \
 [TPC Member](https://icnp24.cs.ucr.edu/assets/markdown/NPSM.html), Workshop on Networking Protocols and Standards for Mobility (NPSM) in 32nd IEEE International Conference on Network Protocols (ICNP), 2024. \
