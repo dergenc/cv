@@ -78,7 +78,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 ### Others
 
 1. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
-2. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/pdf/1912.12220](https://arxiv.org/abs/2212.14876), arXiv preprint	arXiv:2212.14876, 2022.
+2. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/abs/2212.14876), arXiv preprint, arXiv:2212.14876, 2022.
 3. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
 4. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
 5. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
@@ -87,7 +87,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Open-source Software
 
-1. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networks based on Zeek.
+1. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
 2. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
 
 ## Professional Activities
