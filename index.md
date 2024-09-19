@@ -31,7 +31,7 @@ _**Research Associate**_, UHH, 2019-2023 \
 Research on zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html) \
 Research on virtualized and time-sensitive critical systems at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/) 
 
-_**Researcher**_, METU, 2017-2019
+_**Researcher**_, METU, 2017-2019 \
 Research and development on programmable load balancers in [FAME](https://www.famecrypt.com.tr/) \
 Designing secure communication modules at [MilSOFT](https://www.milsoft.com.tr/index.php/home/) HvBS-NATO ACCS Integration Program \
 Research on clustering and routing algorithms for hierarchical mobile ad-hoc networks in [ASELSAN](https://www.aselsan.com.tr/en) 
