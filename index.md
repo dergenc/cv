@@ -102,10 +102,12 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 6. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
 7. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
 
-### Organizational
+### Organizational Duties
 
+[TPC Member](http://www.icccn.org/icccn25/committeesandtracks/technical-tracks/track1.html), 34rd International Conference on Computer Communications and Networks (ICCCN), 2025. \
 [Publicity Chair](https://2025.wons-conference.org/), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025. \
 [TPC Member](https://icnp24.cs.ucr.edu/assets/markdown/NPSM.html), Workshop on Networking Protocols and Standards for Mobility (NPSM) in 32nd IEEE International Conference on Network Protocols (ICNP), 2024. \
+[Organizer](https://www.resilient-worlds.org/blog/2024/10/23/second-resilient-worlds-research-school/), 2nd Resilient Worlds Research School: Building Resilient Worlds - in Career and Research, 2024. \
 [TPC Member](http://www.icccn.org/icccn24/committeesandtracks/technical-tracks/track1.html), 33rd International Conference on Computer Communications and Networks (ICCCN), 2024. \
 [Organizer](https://www.resilient-worlds.org/blog/2023/12/01/first-resilient-worlds-research-school/), 1st Resilient Worlds Research School: Collaboration & Communication for Future Resilient Networks, 2023. \
 [Local Arrangement Chair](http://www.rndm.pl/2023/committee.html), 13th International Workshop on Resilient Networks Design and Modeling (RNDM), 2023.
@@ -119,6 +121,7 @@ _1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens
 
 ## Certificates and Courses
 
+Building Leadership Skills for Academia - a Workshop for Postdocs, TUB Scientific Continuing Education, 2024. \
 Paid to research: how to prepare successful fellowship applications, TUB Scientific Continuing Education, 2024. \
 Academic Choices - Achieving Success, Berlin University Alliance, 2023. \
 Mental Clarity & Decision Making, Hamburg Research Academy, 2023. \
