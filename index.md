@@ -52,7 +52,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Conferences
 
-1. **D. Ergenç**, F. Dressler, _"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_, 20th Wireless On-demand Network systems and Services Conference (WONS), 2025 (submitted).
+1. **D. Ergenç**, F. Dressler, _"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_, 20th Wireless On-demand Network systems and Services Conference (WONS), 2025.
 2. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/document/10230175), International Conference on Computer Communications and Networks (ICCCN), 2023.
 3. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
 4. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
@@ -87,23 +87,30 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Open-source Software
 
-1. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
-2. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
+1. [Implementation](https://github.com/tkn-tub/wifi-mlo-omnet) of multi-link operation (MLO) feature for Wi-Fi 7 in OMNeT++.
+2. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
+3. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
 
 ## Professional Activities
 
 ### Supervision
 
-1. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Master Thesis, TU Berlin, 2024 (ongoing).
-2. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
-3. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
-4. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
-5. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
-6. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
-7. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
+1. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
+2. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. (ongoing)
+3. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
+4. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
+5. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
+6. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
+7. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
+8. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
+9. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
 
 ### Organizational Duties
 
+[Organizer], 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
+[TPC Member](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/kuvs-fg-netsoft/2025/committee/), 4. GI/ITG KuVS Fachgespräch "Network Softwarization" (KuVS FG NetSoft), 2025. \
+[TPC Member](https://etfa2025.ieee-ies.org/files/tracks/ETFA2025_TT02-IndustrialCommunicationTechnologiesAndSystems_CfP.pdf), Industrial Communication
+Technologies and Systems Track in 30th IEEE International Conference on Emerging Technologies for Factory Automation (ETFA), 2025. \
 [TPC Member](http://www.icccn.org/icccn25/committeesandtracks/technical-tracks/track1.html), 34rd International Conference on Computer Communications and Networks (ICCCN), 2025. \
 [Publicity Chair](https://2025.wons-conference.org/), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025. \
 [TPC Member](https://icnp24.cs.ucr.edu/assets/markdown/NPSM.html), Workshop on Networking Protocols and Standards for Mobility (NPSM) in 32nd IEEE International Conference on Network Protocols (ICNP), 2024. \
