@@ -54,7 +54,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Conferences
 
-1. **D. Ergenç**, F. Dressler, _"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_, 20th Wireless On-demand Network systems and Services Conference (WONS), 2025.
+1. **D. Ergenç**, F. Dressler, [_"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_](https://ieeexplore.ieee.org/document/10925982), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025.
 2. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/document/10230175), International Conference on Computer Communications and Networks (ICCCN), 2023.
 3. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
 4. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
