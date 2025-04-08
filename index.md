@@ -46,9 +46,11 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Journals
 
-1. **D. Ergenç**, E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://doi.org/10.1007/s11276-021-02824-7), Wireless Networks, 2022.
-2. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), in IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
-3. **D. Ergenç**, L. Eksert and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
+1. M. Topsakal, S. Cevher and **D. Ergenç**, _"A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"_, Journal of Systems Architecture (JSA), 2025. (to appear)
+2. **D. Ergenç**, A. Memedi, M. Fischer and F. Dressler, _"Resilience in Edge Computing: Challenges and Concepts"_, Foundations and Trends in Networking, 2025. (to appear)
+3. **D. Ergenç** and E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://doi.org/10.1007/s11276-021-02824-7), Wireless Networks, 2022.
+4. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
+5. **D. Ergenç**, L. Eksert and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
 
 ### Conferences
 
@@ -77,13 +79,14 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Others
 
-1. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
-2. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/abs/2212.14876), arXiv preprint, arXiv:2212.14876, 2022.
-3. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
-4. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
-5. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
-6. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
-7. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
+1. N. Franchi, F. Dressler, **D. Ergenç**, P. Guter, V. Lassen, M. Lübke, T. Veihelmann, S. Baradie, L. Bassbouss, A. Bathelt, F. Eichhorn, L. Fink, A. Frisch, P. Gautam, T. Heckmann, D. Houdeau, M. Kottkamp, D. Lindenschmitt, E. Lyczkowski and D. Wübben, [_"German Perspective on 6G – Use Cases, Technical Building Blocks and Requirements. Insights by the 6G Platform Germany"_](https://www.6g-platform.com/wp-content/uploads/2024/12/German_perspective_on_6G_FAU.pdf), Friedrich–Alexander University of Erlangen–Nuremberg (FAU), White Paper, 2024. 
+2. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
+3. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/abs/2212.14876), arXiv preprint, arXiv:2212.14876, 2022.
+4. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
+5. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
+6. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
+7. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
+8. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
 
 ### Open-source Software
 
