@@ -46,11 +46,12 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Journals
 
-1. M. Topsakal, S. Cevher and **D. Ergenç**, [_"A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"_](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000803?via=ihub), Journal of Systems Architecture (JSA), 2025.
-2. **D. Ergenç**, A. Memedi, M. Fischer and F. Dressler, [_"Resilience in Edge Computing: Challenges and Concepts"_](https://www.tkn.tu-berlin.de/bib/ergenc2025resilience/ergenc2025resilience.pdf), Foundations and Trends in Networking, 2025.
-3. **D. Ergenç** and E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://doi.org/10.1007/s11276-021-02824-7), Wireless Networks, 2022.
-4. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
-5. **D. Ergenç**, L. Eksert and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
+1. J. Heinovski, **D. Ergenç**, K. Thommes and F. Dressler, [_"Incentive-based Platoon Formation: Optimizing the Personal Benefit for Drivers"_](https://www.tkn.tu-berlin.de/bib/heinovski2025incentive/heinovski2025incentive.pdf), IEEE Open Journal of Intelligent Transportation Systems (OJITS), 2025.
+2. M. Topsakal, S. Cevher and **D. Ergenç**, [_"A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"_](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000803?via=ihub), Journal of Systems Architecture (JSA), 2025.
+3. **D. Ergenç**, A. Memedi, M. Fischer and F. Dressler, [_"Resilience in Edge Computing: Challenges and Concepts"_](https://www.tkn.tu-berlin.de/bib/ergenc2025resilience/ergenc2025resilience.pdf), Foundations and Trends in Networking, 2025.
+4. **D. Ergenç** and E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://doi.org/10.1007/s11276-021-02824-7), Wireless Networks, 2022.
+5. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
+6. **D. Ergenç**, L. Eksert and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
 
 ### Conferences
 
@@ -98,20 +99,23 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Supervision
 
-1. Emile Pescher, _"	Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
-2. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
-3. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. (ongoing)
-4. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
-5. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
-6. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
-7. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
-8. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
-9. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
-10. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
+1. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025. (ongoing)
+2. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
+3. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
+4. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
+5. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. (ongoing)
+6. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
+7. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
+8. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
+9. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
+10. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
+11. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
+12. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
 
 ### Organizational Duties
 
-[Chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \ 
+[TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks in IEEE Global Communications Conference (GLOBECOM), 2025. \
+[Chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
 [Guest Editor](https://www.sciencedirect.com/science/article/pii/S1573427725000074?via%3Dihub), Special Issue in Optical Switching and Networking: From design to recovery: Insights on resilient network from RNDM 2023, 2025. \
 [Organizer](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
 [TPC Member](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/kuvs-fg-netsoft/2025/committee/), 4. GI/ITG KuVS Fachgespräch "Network Softwarization" (KuVS FG NetSoft), 2025. \
