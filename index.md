@@ -39,8 +39,8 @@ Research on clustering and routing algorithms for hierarchical mobile ad-hoc net
 _**System and Software Engineer**_, Invicta R&D, 2016-2017 \
 Development of network- and host-based security and access control mechanisms for critical systems at [Virtual Air Gap (VAG)](https://patents.google.com/patent/WO2009075656A1/ja)
 
-<!-- _**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
-Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) --> 
+ _**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
+Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) 
 
 ## Publications
 
@@ -92,9 +92,10 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Open-source Software
 
-1. [Implementation](https://github.com/tkn-tub/wifi-mlo-omnet) of multi-link operation (MLO) feature for Wi-Fi 7 in OMNeT++.
-2. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
-3. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
+1. [Implementation](https://github.com/tkn-tub/wifi-frer-mlo-omnet) of IEEE 802.1CB FRER over Wi-Fi 7 MLO in OMNeT++.
+2. [Implementation](https://github.com/tkn-tub/wifi-mlo-omnet) of multi-link operation (MLO) feature for Wi-Fi 7 in OMNeT++.
+3. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
+4. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
 
 ## Professional Activities
 
@@ -103,7 +104,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 1. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025. (ongoing)
 2. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
 3. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
-4. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
+4. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. 
 5. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. (ongoing)
 6. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
 7. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
@@ -116,9 +117,9 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 ### Organizational Duties
 
 [TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks in IEEE Global Communications Conference (GLOBECOM), 2025. \
-[Chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
+[Co-chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
 [Guest Editor](https://www.sciencedirect.com/science/article/pii/S1573427725000074?via%3Dihub), Special Issue in Optical Switching and Networking: From design to recovery: Insights on resilient network from RNDM 2023, 2025. \
-[Organizer](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
+[Co-chair](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
 [TPC Member](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/kuvs-fg-netsoft/2025/committee/), 4. GI/ITG KuVS Fachgespräch "Network Softwarization" (KuVS FG NetSoft), 2025. \
 [TPC Member](https://etfa2025.ieee-ies.org/files/tracks/ETFA2025_TT02-IndustrialCommunicationTechnologiesAndSystems_CfP.pdf), Industrial Communication
 Technologies and Systems Track in 30th IEEE International Conference on Emerging Technologies for Factory Automation (ETFA), 2025. \
