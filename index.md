@@ -117,9 +117,9 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 ### Organizational Duties
 
 [TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks in IEEE Global Communications Conference (GLOBECOM), 2025. \
-[Co-chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
+[Chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
 [Guest Editor](https://www.sciencedirect.com/science/article/pii/S1573427725000074?via%3Dihub), Special Issue in Optical Switching and Networking: From design to recovery: Insights on resilient network from RNDM 2023, 2025. \
-[Co-chair](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
+[Chair](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
 [TPC Member](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/kuvs-fg-netsoft/2025/committee/), 4. GI/ITG KuVS Fachgespräch "Network Softwarization" (KuVS FG NetSoft), 2025. \
 [TPC Member](https://etfa2025.ieee-ies.org/files/tracks/ETFA2025_TT02-IndustrialCommunicationTechnologiesAndSystems_CfP.pdf), Industrial Communication
 Technologies and Systems Track in 30th IEEE International Conference on Emerging Technologies for Factory Automation (ETFA), 2025. \
