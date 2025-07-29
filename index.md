@@ -46,12 +46,13 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Journals
 
-1. J. Heinovski, **D. Ergenç**, K. Thommes and F. Dressler, [_"Incentive-based Platoon Formation: Optimizing the Personal Benefit for Drivers"_](https://www.tkn.tu-berlin.de/bib/heinovski2025incentive/heinovski2025incentive.pdf), IEEE Open Journal of Intelligent Transportation Systems (OJITS), 2025.
-2. M. Topsakal, S. Cevher and **D. Ergenç**, [_"A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"_](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000803?via=ihub), Journal of Systems Architecture (JSA), 2025.
-3. **D. Ergenç**, A. Memedi, M. Fischer and F. Dressler, [_"Resilience in Edge Computing: Challenges and Concepts"_](https://www.tkn.tu-berlin.de/bib/ergenc2025resilience/ergenc2025resilience.pdf), Foundations and Trends in Networking, 2025.
-4. **D. Ergenç** and E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://doi.org/10.1007/s11276-021-02824-7), Wireless Networks, 2022.
-5. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
-6. **D. Ergenç**, L. Eksert and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
+1. **D. Ergenç**, T. Reisinger and F. Dressler, _"Redundancy in WiFi 7: Combining Multi-link Operation with IEEE 802.1CB FRER"_, Computer Communications (COMCOM), 2025. (submitted)
+2. J. Heinovski, **D. Ergenç**, K. Thommes and F. Dressler, [_"Incentive-based Platoon Formation: Optimizing the Personal Benefit for Drivers"_](https://www.tkn.tu-berlin.de/bib/heinovski2025incentive/heinovski2025incentive.pdf), IEEE Open Journal of Intelligent Transportation Systems (OJITS), 2025.
+3. M. Topsakal, S. Cevher and **D. Ergenç**, [_"A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"_](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000803?via=ihub), Journal of Systems Architecture (JSA), 2025.
+4. **D. Ergenç**, A. Memedi, M. Fischer and F. Dressler, [_"Resilience in Edge Computing: Challenges and Concepts"_](https://www.tkn.tu-berlin.de/bib/ergenc2025resilience/ergenc2025resilience.pdf), Foundations and Trends in Networking, 2025.
+5. **D. Ergenç** and E. Onur, [_"Plane-separated Routing in Ad-hoc Networks"_](https://doi.org/10.1007/s11276-021-02824-7), Wireless Networks, 2022.
+6. **D. Ergenç,** J. Rak and M. Fischer, [_"Service-Based Resilience via Shared Protection in Mission-Critical Embedded Networks"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364283), IEEE Transactions on Network and Service Management, vol. 18, no. 3, pp. 2687-2701, 2021.
+7. **D. Ergenç**, L. Eksert and E. Onur, [_"Dependability-based Clustering in Mobile Ad-hoc Networks"_](https://www.sciencedirect.com/science/article/pii/S1570870518306929), Ad Hoc Networks, vol. 93, pp. 101926, 2019.
 
 ### Conferences
 
@@ -69,15 +70,16 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Workshops, Posters, Demos
 
-1. L. Ebner, J. T. Gómez, S. Pal, **D. Ergenç,** R. Wendt, S. Fischer and F. Dressler, [_"BVS-Net: A Networking Tool for Studying THz-based Intra-body Communication Links"_](https://www.tkn.tu-berlin.de/bib/ebner2024bvs-net/ebner2024bvs-net.pdf), 11th ACM International Conference on Nanoscale Computing and Communication (NANOCOM), 2024.
-2. J. Heinovski, **D. Ergenç,** and F. Dressler, [_"Platooning Revisited: What is the Personal Benefit Compared to ACC and Human Driving?"_](https://www.tkn.tu-berlin.de/bib/heinovski2024platooning/heinovski2024platooning.pdf), 15th IEEE Vehicular Networking Conference (VNC), 2024.
-3. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://ieeexplore.ieee.org/document/10175408), 9th IEEE International Conference on Network Softwarization (NetSoft), 2023.
-4. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://ieeexplore.ieee.org/document/10186421), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023.
-5.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
-6. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
-7. **D. Ergenç** and M. Fischer, [_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++"_](https://ieeexplore.ieee.org/abstract/document/9473722), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
-8. **D. Ergenç** and E. Onur, [_"Poster: iSDR: SDR-in-the-loop Simulation"_](https://ieeexplore.ieee.org/abstract/document/8845297), IEEE Conference on Computer Communications (INFOCOM), 2019.
-9. **D. Ergenç** and E. Onur, [_Cross-layer Stack Design Framework in OMNeT++"_](https://easychair.org/publications/paper/Sklb), 5th OMNeT++ Community Summit, 2018.
+1. **D. Ergenç,**, A. Abdulfattah, A. H. Ansari and F. Dressler, _"Poster: Towards Open Wireless Time-sensitive Networking in Linux"_, 31st Annual International Conference on Mobile Computing and Networking (MobiCom), 2025. (submitted)
+2. L. Ebner, J. T. Gómez, S. Pal, **D. Ergenç,** R. Wendt, S. Fischer and F. Dressler, [_"Poster: BVS-Net: A Networking Tool for Studying THz-based Intra-body Communication Links"_](https://www.tkn.tu-berlin.de/bib/ebner2024bvs-net/ebner2024bvs-net.pdf), 11th ACM International Conference on Nanoscale Computing and Communication (NANOCOM), 2024.
+3. J. Heinovski, **D. Ergenç,** and F. Dressler, [_"Poster: Platooning Revisited: What is the Personal Benefit Compared to ACC and Human Driving?"_](https://www.tkn.tu-berlin.de/bib/heinovski2024platooning/heinovski2024platooning.pdf), 15th IEEE Vehicular Networking Conference (VNC), 2024.
+4. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://ieeexplore.ieee.org/document/10175408), 9th IEEE International Conference on Network Softwarization (NetSoft), 2023.
+5. **D. Ergenç**, R. Schenderlein and M. Fischer, [_"TSNZeek: An Open-source Intrusion Detection System for IEEE 802.1 Time-sensitive Networks"_](https://ieeexplore.ieee.org/document/10186421), IFIP Networking - International Workshop on Time-Sensitive and Deterministic Networking (TENSOR), 2023.
+6.  M. Mönnich, N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Mitigation of IPv6 Router Spoofing Attacks with P4"_](https://dl.acm.org/doi/abs/10.1145/3493425.3502765), ACM  Symposium on Architectures for Networking and Communications Systems (ANCS) Workshops - EuroP4, 2021.
+7. **D. Ergenç,** C. Brülhart, J. Neumann, L. Krüger and M. Fischer, [_"On the Security of IEEE 802.1 Time-Sensitive Networking"_](https://ieeexplore.ieee.org/abstract/document/9473542), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
+8. **D. Ergenç** and M. Fischer, [_"Implementation and Orchestration of IEEE 802.1CB FRER in OMNeT++"_](https://ieeexplore.ieee.org/abstract/document/9473722), IEEE International Conference on Communications (ICC) Workshops - Time-sensitive and Deterministic Networking, 2021.
+9. **D. Ergenç** and E. Onur, [_"Poster: iSDR: SDR-in-the-loop Simulation"_](https://ieeexplore.ieee.org/abstract/document/8845297), IEEE Conference on Computer Communications (INFOCOM), 2019.
+10. **D. Ergenç** and E. Onur, [_Cross-layer Stack Design Framework in OMNeT++"_](https://easychair.org/publications/paper/Sklb), 5th OMNeT++ Community Summit, 2018.
 
 ### Others
 
