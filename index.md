@@ -70,7 +70,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Workshops, Posters, Demos
 
-1. **D. Ergenç,**, A. Abdulfattah, A. H. Ansari and F. Dressler, _"Poster: Towards Open Wireless Time-sensitive Networking in Linux"_, 31st Annual International Conference on Mobile Computing and Networking (MobiCom), 2025. (submitted)
+1. **D. Ergenç,**, A. Abdulfattah, A. H. Ansari and F. Dressler, _"Poster: Towards Open Wireless Time-sensitive Networking in Linux"_, 31st Annual International Conference on Mobile Computing and Networking (MobiCom), 2025. (to appear)
 2. L. Ebner, J. T. Gómez, S. Pal, **D. Ergenç,** R. Wendt, S. Fischer and F. Dressler, [_"Poster: BVS-Net: A Networking Tool for Studying THz-based Intra-body Communication Links"_](https://www.tkn.tu-berlin.de/bib/ebner2024bvs-net/ebner2024bvs-net.pdf), 11th ACM International Conference on Nanoscale Computing and Communication (NANOCOM), 2024.
 3. J. Heinovski, **D. Ergenç,** and F. Dressler, [_"Poster: Platooning Revisited: What is the Personal Benefit Compared to ACC and Human Driving?"_](https://www.tkn.tu-berlin.de/bib/heinovski2024platooning/heinovski2024platooning.pdf), 15th IEEE Vehicular Networking Conference (VNC), 2024.
 4. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://ieeexplore.ieee.org/document/10175408), 9th IEEE International Conference on Network Softwarization (NetSoft), 2023.
@@ -106,9 +106,9 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 1. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025. (ongoing)
 2. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
-3. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
+3. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
 4. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. 
-5. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. (ongoing)
+5. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. 
 6. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
 7. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
 8. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
@@ -121,7 +121,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 [TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks in IEEE Global Communications Conference (GLOBECOM), 2025. \
 [Chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
-[Guest Editor](https://www.sciencedirect.com/science/article/pii/S1573427725000074?via%3Dihub), Special Issue in Optical Switching and Networking: From design to recovery: Insights on resilient network from RNDM 2023, 2025. \
+[Guest Editor](https://www.sciencedirect.com/science/article/pii/S1573427725000074?via%3Dihub), Special Issue in Optical Switching and Networking: From design to recovery: Insights on resilient networks from RNDM 2023, 2025. \
 [Chair](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
 [TPC Member](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/kuvs-fg-netsoft/2025/committee/), 4. GI/ITG KuVS Fachgespräch "Network Softwarization" (KuVS FG NetSoft), 2025. \
 [TPC Member](https://etfa2025.ieee-ies.org/files/tracks/ETFA2025_TT02-IndustrialCommunicationTechnologiesAndSystems_CfP.pdf), Industrial Communication
