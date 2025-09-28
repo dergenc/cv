@@ -22,10 +22,11 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 ## Experience
 
-_**Postdoctoral Researcher**_, TU Berlin, 2023-2025 \
-PI at [OWTSN: Open Wireless Time-sensitive Networking for 5G-integrated Industrial Systems](https://www.tkn.tu-berlin.de/projects/)  \
-Co-coordinator at the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/) \
-Co-coordinator at a working group in the BMBF-funded [6G-Platform Germany](https://www.6g-platform.com/)
+_**Postdoctoral Researcher**_, TU Berlin, 2023- \
+PI at DFG-funded [RESERVE: Resilient Hybrid Time-sensitive Networks](https://www.resilient-worlds.org/projects/phase2/reserve/) \
+PI at EU-funded [OWTSN: Open Wireless Time-sensitive Networking for 5G-integrated Industrial Systems](https://www.tkn.tu-berlin.de/projects/)  \
+Coordinator at the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/) \
+Coordinator at a working group in the BMBF-funded [6G-Platform Germany](https://www.6g-platform.com/)
 
 _**Doctoral Researcher**_, UHH, 2019-2023 \
 Research on zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html) \
@@ -56,7 +57,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Conferences
 
-1. O. Wandschneider, A. Talpur, M. Fischer, **D. Ergenç**, _"MITHRIL: Multi-Objective Topology Synthesis with Reinforcement Learning for Critical Networks"_, 50th IEEE Conference on Local Computer Networks (LCN), 2025. (to appear)
+1. O. Wandschneider, A. Talpur, M. Fischer, **D. Ergenç**, [_"MITHRIL: Multi-Objective Topology Synthesis with Reinforcement Learning for Critical Networks"_](https://ieeexplore.ieee.org/document/11146355), 50th IEEE Conference on Local Computer Networks (LCN), 2025. 
 2. **D. Ergenç**, F. Dressler, [_"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_](https://ieeexplore.ieee.org/document/10925982), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025.
 3. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/document/10230175), International Conference on Computer Communications and Networks (ICCCN), 2023.
 4. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
@@ -70,7 +71,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Workshops, Posters, Demos
 
-1. **D. Ergenç,**, A. Abdulfattah, A. H. Ansari and F. Dressler, _"Poster: Towards Open Wireless Time-sensitive Networking in Linux"_, 31st Annual International Conference on Mobile Computing and Networking (MobiCom), 2025. (to appear)
+1. **D. Ergenç,** A. Abdulfattah, A. H. Ansari and F. Dressler, [_"Poster: Towards Open Wireless Time-sensitive Networking in Linux"_](https://www.tkn.tu-berlin.de/bib/ergenc2025towards/ergenc2025towards.pdf), 31st Annual International Conference on Mobile Computing and Networking (MobiCom), 2025. (to appear)
 2. L. Ebner, J. T. Gómez, S. Pal, **D. Ergenç,** R. Wendt, S. Fischer and F. Dressler, [_"Poster: BVS-Net: A Networking Tool for Studying THz-based Intra-body Communication Links"_](https://www.tkn.tu-berlin.de/bib/ebner2024bvs-net/ebner2024bvs-net.pdf), 11th ACM International Conference on Nanoscale Computing and Communication (NANOCOM), 2024.
 3. J. Heinovski, **D. Ergenç,** and F. Dressler, [_"Poster: Platooning Revisited: What is the Personal Benefit Compared to ACC and Human Driving?"_](https://www.tkn.tu-berlin.de/bib/heinovski2024platooning/heinovski2024platooning.pdf), 15th IEEE Vehicular Networking Conference (VNC), 2024.
 4. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://ieeexplore.ieee.org/document/10175408), 9th IEEE International Conference on Network Softwarization (NetSoft), 2023.
@@ -136,7 +137,8 @@ Technologies and Systems Track in 30th IEEE International Conference on Emerging
 
 ## Awards
 
-PhD with distinction, 2023. \
+Selected as one of the ["Outstanding Dissertations in Computer Science"](https://dl.gi.de/collections/8a89b931-32cf-4a39-97a9-dc0630d5ace3) by German Informatics Society, 2024. \
+PhD with highest honor (_Summa cum Laude_), 2023. \
 INFOCOM _Student Travel Grant_, 2021.  \
 Graduated _4th out of 270_ students at METU, 2016.  \
 _1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016.
