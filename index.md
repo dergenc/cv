@@ -84,7 +84,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Others
 
-1. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**_, "A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_, 10th International Conference on Computer Science and Engineering (UBMK), 2025. (to appear)
+1. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. (to appear)
 2. N. Franchi, F. Dressler, **D. Ergenç**, P. Guter, V. Lassen, M. Lübke, T. Veihelmann, S. Baradie, L. Bassbouss, A. Bathelt, F. Eichhorn, L. Fink, A. Frisch, P. Gautam, T. Heckmann, D. Houdeau, M. Kottkamp, D. Lindenschmitt, E. Lyczkowski and D. Wübben, [_"German Perspective on 6G – Use Cases, Technical Building Blocks and Requirements. Insights by the 6G Platform Germany"_](https://www.6g-platform.com/wp-content/uploads/2024/12/German_perspective_on_6G_FAU.pdf), Friedrich–Alexander University of Erlangen–Nuremberg (FAU), White Paper, 2024. 
 3. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
 4. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/abs/2212.14876), arXiv preprint, arXiv:2212.14876, 2022.
@@ -96,10 +96,11 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Open-source Software
 
-1. [Implementation](https://github.com/tkn-tub/wifi-frer-mlo-omnet) of IEEE 802.1CB FRER over Wi-Fi 7 MLO in OMNeT++.
-2. [Implementation](https://github.com/tkn-tub/wifi-mlo-omnet) of multi-link operation (MLO) feature for Wi-Fi 7 in OMNeT++.
-3. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
-4. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
+1. [Integration](https://github.com/tkn-tub/wifi-tsn-linux) of IEEE 802.1Qbv into the Wi-Fi stack in Linux kernel
+2. [Implementation](https://github.com/tkn-tub/wifi-frer-mlo-omnet) of IEEE 802.1CB FRER over Wi-Fi 7 MLO in OMNeT++.
+3. [Implementation](https://github.com/tkn-tub/wifi-mlo-omnet) of multi-link operation (MLO) feature for Wi-Fi 7 in OMNeT++.
+4. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
+5. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
 
 ## Professional Activities
 
