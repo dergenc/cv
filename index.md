@@ -71,7 +71,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Workshops, Posters, Demos
 
-1. **D. Ergenç,** A. Abdulfattah, A. H. Ansari and F. Dressler, [_"Poster: Towards Open Wireless Time-sensitive Networking in Linux"_](https://www.tkn.tu-berlin.de/bib/ergenc2025towards/ergenc2025towards.pdf), 31st Annual International Conference on Mobile Computing and Networking (MobiCom), 2025. (to appear)
+1. **D. Ergenç,** A. Abdulfattah, A. H. Ansari and F. Dressler, [_"Poster: Towards Open Wireless Time-sensitive Networking in Linux"_](https://www.tkn.tu-berlin.de/bib/ergenc2025towards/ergenc2025towards.pdf), 31st Annual International Conference on Mobile Computing and Networking (MobiCom), 2025. 
 2. L. Ebner, J. T. Gómez, S. Pal, **D. Ergenç,** R. Wendt, S. Fischer and F. Dressler, [_"Poster: BVS-Net: A Networking Tool for Studying THz-based Intra-body Communication Links"_](https://www.tkn.tu-berlin.de/bib/ebner2024bvs-net/ebner2024bvs-net.pdf), 11th ACM International Conference on Nanoscale Computing and Communication (NANOCOM), 2024.
 3. J. Heinovski, **D. Ergenç,** and F. Dressler, [_"Poster: Platooning Revisited: What is the Personal Benefit Compared to ACC and Human Driving?"_](https://www.tkn.tu-berlin.de/bib/heinovski2024platooning/heinovski2024platooning.pdf), 15th IEEE Vehicular Networking Conference (VNC), 2024.
 4. **D. Ergenç,** C. Brülhart and M. Fischer, [_"Demo: Towards Developing Resilient and Service-oriented Mission-critical Systems"_](https://ieeexplore.ieee.org/document/10175408), 9th IEEE International Conference on Network Softwarization (NetSoft), 2023.
@@ -84,7 +84,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Others
 
-1. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. (to appear)
+1. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. 
 2. N. Franchi, F. Dressler, **D. Ergenç**, P. Guter, V. Lassen, M. Lübke, T. Veihelmann, S. Baradie, L. Bassbouss, A. Bathelt, F. Eichhorn, L. Fink, A. Frisch, P. Gautam, T. Heckmann, D. Houdeau, M. Kottkamp, D. Lindenschmitt, E. Lyczkowski and D. Wübben, [_"German Perspective on 6G – Use Cases, Technical Building Blocks and Requirements. Insights by the 6G Platform Germany"_](https://www.6g-platform.com/wp-content/uploads/2024/12/German_perspective_on_6G_FAU.pdf), Friedrich–Alexander University of Erlangen–Nuremberg (FAU), White Paper, 2024. 
 3. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
 4. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/abs/2212.14876), arXiv preprint, arXiv:2212.14876, 2022.
