@@ -47,7 +47,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Journals
 
-1. **D. Ergenç**, T. Reisinger and F. Dressler, _"Redundancy in WiFi 7: Combining Multi-link Operation with IEEE 802.1CB FRER"_, Computer Communications (COMCOM), 2025. (to appear)
+1. **D. Ergenç**, T. Reisinger and F. Dressler, [_"Redundancy in WiFi 7: Combining Multi-link Operation with IEEE 802.1CB FRER"_](https://doi.org/10.1016/j.comcom.2025.108373), Computer Communications (COMCOM), 2025. 
 2. J. Heinovski, **D. Ergenç**, K. Thommes and F. Dressler, [_"Incentive-based Platoon Formation: Optimizing the Personal Benefit for Drivers"_](https://www.tkn.tu-berlin.de/bib/heinovski2025incentive/heinovski2025incentive.pdf), IEEE Open Journal of Intelligent Transportation Systems (OJITS), 2025.
 3. M. Topsakal, S. Cevher and **D. Ergenç**, [_"A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"_](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000803?via=ihub), Journal of Systems Architecture (JSA), 2025.
 4. **D. Ergenç**, A. Memedi, M. Fischer and F. Dressler, [_"Resilience in Edge Computing: Challenges and Concepts"_](https://www.tkn.tu-berlin.de/bib/ergenc2025resilience/ergenc2025resilience.pdf), Foundations and Trends in Networking, 2025.
