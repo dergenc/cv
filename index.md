@@ -122,6 +122,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Organizational Duties
 
+[TPC Member](https://dsn2026.github.io/progcomm.html), 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026. \
 [TPC Member](https://wiopt2026.github.io/tpc.html), 24th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), 2026. \
 [TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks in IEEE Global Communications Conference (GLOBECOM), 2025. \
 [Chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
