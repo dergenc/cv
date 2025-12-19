@@ -85,15 +85,16 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Others
 
-1. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. 
-2. N. Franchi, F. Dressler, **D. Ergenç**, P. Guter, V. Lassen, M. Lübke, T. Veihelmann, S. Baradie, L. Bassbouss, A. Bathelt, F. Eichhorn, L. Fink, A. Frisch, P. Gautam, T. Heckmann, D. Houdeau, M. Kottkamp, D. Lindenschmitt, E. Lyczkowski and D. Wübben, [_"German Perspective on 6G – Use Cases, Technical Building Blocks and Requirements. Insights by the 6G Platform Germany"_](https://www.6g-platform.com/wp-content/uploads/2024/12/German_perspective_on_6G_FAU.pdf), Friedrich–Alexander University of Erlangen–Nuremberg (FAU), White Paper, 2024. 
-3. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
-4. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/abs/2212.14876), arXiv preprint, arXiv:2212.14876, 2022.
-5. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
-6. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
-7. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
-8. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
-9. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
+1. **D. Ergenç** and N.S. Bülbül, [_"Tutorial: IEEE 802.1 Time-Sensitive Networking (TSN) Beyond Theory: Convergence, Resilience, and Practical Insights"_](https://ccnc2026.ieee-ccnc.org/node/12941), IEEE Consumer Communications & Networking Conference (CCNC), 2026.
+2. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. 
+3. N. Franchi, F. Dressler, **D. Ergenç**, P. Guter, V. Lassen, M. Lübke, T. Veihelmann, S. Baradie, L. Bassbouss, A. Bathelt, F. Eichhorn, L. Fink, A. Frisch, P. Gautam, T. Heckmann, D. Houdeau, M. Kottkamp, D. Lindenschmitt, E. Lyczkowski and D. Wübben, [_"German Perspective on 6G – Use Cases, Technical Building Blocks and Requirements. Insights by the 6G Platform Germany"_](https://www.6g-platform.com/wp-content/uploads/2024/12/German_perspective_on_6G_FAU.pdf), Friedrich–Alexander University of Erlangen–Nuremberg (FAU), White Paper, 2024. 
+4. **D. Ergenç**, N.S. Bülbül, L. Maile, A. Arestova and M. Fischer, [_"Towards Synthesizing Datasets for IEEE 802.1 Time-sensitive Networking"_](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/11/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/malene/docId/109658), International Conference on Networked Systems (NetSys) - 2nd Workshop on Machine Learning & Networking, 2023. 
+5. G. Simsek, **D. Ergenç** and E. Onur, [_"Reliable and Distributed Network Monitoring via In-band Network Telemetry"_](https://arxiv.org/abs/2212.14876), arXiv preprint, arXiv:2212.14876, 2022.
+6. N.S. Bülbül, **D. Ergenç,** and M. Fischer, [_"Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks"_](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/28074/file/Sertbas_Buelbuel_et_al_Dynamic_Path_Reconfiguration_WueWoWas22_1570808763.pdf), Würzburg Workshop on Next-Generation Communication Networks (WueWoWas), 2022.
+7. **D. Ergenç** and M. Fischer, [_"Resilience of Virtualized Embedded Networks"_](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/100409), 2. KuVS Fachgespräch "Network Softwarization", 2020.
+8. **D. Ergenç**, and E. Onur, [_"On Network Traffic Forecasting using Autoregressive Models"_](https://arxiv.org/pdf/1912.12220), 2019, arXiv preprint arXiv:1912.12220.
+9. A. Demirpolat, **D. Ergenç,** E. Ozturk, Y. Ayar and E. Onur, [_"Software-defined Network Security"_](https://www.igi-global.com/chapter/software-defined-network-security/214814), Book Chapter in Enabling Technologies and Architectures for Next-Generation Networking Capabilities, pp. 232-253, IGI Global, 2019.
+10. **D. Ergenç**, L. Eksert and E. Onur, [_"Performance Optimization and Analysis of A Weight-based Clustering Algorithm in Ad Hoc Networks"_](https://netlab.media/wp-content/uploads/2018/12/35-ulusal-bilisim-kurultayi-bildiriler-kitabi.pdf), TBD 35. Ulusal Bilişim Kurultayı, 2018.
 
 ### Open-source Software
 
@@ -107,27 +108,30 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Supervision
 
-1. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025. (ongoing)
-2. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. (ongoing)
-3. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
-4. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. 
-5. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. 
-6. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
-7. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
-8. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
-9. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
-10. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
-11. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
-12. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
+1. Emre Özküçük, _"End-to-End Redundancy for Hybrid 5G-TSN Networks"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
+2. Erik Luger, _"Priority-aware and Multi-link Restricted Target Wake Time in Wi-Fi 7"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
+3. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025. (ongoing)
+4. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
+5. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
+6. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. 
+7. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. 
+8. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
+9. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
+10. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
+11. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
+12. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
+13. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
+14. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
 
 ### Organizational Duties
 
+[Student Travel Grant Co-chair](https://events.vtsociety.org/vtc2026-spring/), 104th IEEE Vehicular Technology Conference (VTC2026-Fall), 2026. \
 [TPC Member](https://dsn2026.github.io/progcomm.html), 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026. \
 [TPC Member](https://wiopt2026.github.io/tpc.html), 24th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), 2026. \
 [TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks in IEEE Global Communications Conference (GLOBECOM), 2025. \
-[Chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
+[Co-chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
 [Guest Editor](https://www.sciencedirect.com/science/article/pii/S1573427725000074?via%3Dihub), Special Issue in Optical Switching and Networking: From design to recovery: Insights on resilient networks from RNDM 2023, 2025. \
-[Chair](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
+[Co-chair](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
 [TPC Member](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/kuvs-fg-netsoft/2025/committee/), 4. GI/ITG KuVS Fachgespräch "Network Softwarization" (KuVS FG NetSoft), 2025. \
 [TPC Member](https://etfa2025.ieee-ies.org/files/tracks/ETFA2025_TT02-IndustrialCommunicationTechnologiesAndSystems_CfP.pdf), Industrial Communication
 Technologies and Systems Track in 30th IEEE International Conference on Emerging Technologies for Factory Automation (ETFA), 2025. \
