@@ -25,7 +25,7 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 _**Senior Researcher**_, TU Berlin, 2026- \
 PI at DFG-funded [RESERVE: Resilient Hybrid Time-sensitive Networks](https://www.resilient-worlds.org/projects/phase2/reserve/)
 
-_**Postdoctoral Researcher**_, TU Berlin, 2023- \
+_**Postdoctoral Researcher**_, TU Berlin, 2023-2026 \
 PI at EU-funded [OWTSN: Open Wireless Time-sensitive Networking for 5G-integrated Industrial Systems](https://www.tkn.tu-berlin.de/projects/)  \
 Coordinator at the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/) \
 Coordinator at a working group in the BMBF-funded [6G-Platform Germany](https://www.6g-platform.com/)
