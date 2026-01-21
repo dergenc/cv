@@ -22,8 +22,10 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 ## Experience
 
+_**Senior Researcher**_, TU Berlin, 2026- \
+PI at DFG-funded [RESERVE: Resilient Hybrid Time-sensitive Networks](https://www.resilient-worlds.org/projects/phase2/reserve/)
+
 _**Postdoctoral Researcher**_, TU Berlin, 2023- \
-PI at DFG-funded [RESERVE: Resilient Hybrid Time-sensitive Networks](https://www.resilient-worlds.org/projects/phase2/reserve/) \
 PI at EU-funded [OWTSN: Open Wireless Time-sensitive Networking for 5G-integrated Industrial Systems](https://www.tkn.tu-berlin.de/projects/)  \
 Coordinator at the DFG Priority Programme SPP 2378 [Resilience in Connected Worlds – Mastering Failures, Overload, Attacks, and the Unexpected](https://www.resilient-worlds.org/) \
 Coordinator at a working group in the BMBF-funded [6G-Platform Germany](https://www.6g-platform.com/)
@@ -117,20 +119,21 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Supervision
 
-1. Emre Özküçük, _"End-to-End Redundancy for Hybrid 5G-TSN Networks"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
-2. Erik Luger, _"Priority-aware and Multi-link Restricted Target Wake Time in Wi-Fi 7"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
-3. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025. (ongoing)
-4. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
-5. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
-6. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. 
-7. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. 
-8. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
-9. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
-10. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
-11. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
-12. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
-13. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
-14. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
+1. Maximilian Schultz, _"End-to-end Network Slicing in Hybrid TSN-WiFi Networks"_, Master Thesis, TU Berlin, 2026. (ongoing)
+2. Emre Özküçük, _"End-to-End Redundancy for Hybrid 5G-TSN Networks"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
+3. Erik Luger, _"Priority-aware and Multi-link Restricted Target Wake Time in Wi-Fi 7"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
+4. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025.
+5. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
+6. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
+7. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. 
+8. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. 
+9. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
+10. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
+11. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
+12. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
+13. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
+14. Robin Schenderlein, _"Security Monitoring of IEEE 802.1 Time-sensitive Networking"_, Bachelor Thesis, UHH, 2022.
+15. Philip Gawehn, _"Anomaly Detection on the Basis of Federated Learning in Heterogeneous Industrial Networks"_, Master Thesis, UHH, 2021.
 
 ### Organizational Duties
 
