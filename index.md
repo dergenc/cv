@@ -9,17 +9,6 @@ I like developing software to make my own life easier. I am also quite into lite
 <a href="https://github.com/dergenc"><img src="img/github.png" width="20" height="20"> </a>
 <a href="https://www.goodreads.com/user/show/112982769-doganalp-ergenc"><img src="img/goodreads.svg" width="20" height="20"> </a>
 
-## Education
-
-_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2023, _Summa cum Laude_ \
-Thesis: [Resilience of Service-oriented and Time-sensitive Mission-critical Networks](https://ediss.sub.uni-hamburg.de/handle/ediss/10356)
-
-_**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
-Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
-
-_**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-2016, _GPA: 3.52/4.00_ \
-Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
-
 ## Experience
 
 _**Senior Researcher**_, TU Berlin, 2026- \
@@ -45,6 +34,17 @@ Development of network- and host-based security and access control mechanisms fo
  _**Software Developer**_, [Taleworlds Entertainment](https://www.taleworlds.com/), 2014-2016 \
 Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) 
 
+## Education
+
+_**PhD @ Computer Science**_, University of Hamburg (UHH), 2019-2023, _Summa cum Laude_ \
+Thesis: [Resilience of Service-oriented and Time-sensitive Mission-critical Networks](https://ediss.sub.uni-hamburg.de/handle/ediss/10356)
+
+_**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
+Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
+
+_**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-2016, _GPA: 3.52/4.00_ \
+Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
+
 ## Publications
 
 ### Journals
@@ -59,19 +59,20 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Conferences
 
-1. **D. Ergenç**, M. Zakrzewski, F. Dressler, "Multi-Link Scheduling with Restricted Target Wake Time in Wi-Fi 7", 21th Wireless On-demand Network systems and Services Conference (WONS), 2026. 
-2. O. Wandschneider, A. Talpur, M. Fischer, **D. Ergenç**, [_"MITHRIL: Multi-Objective Topology Synthesis with Reinforcement Learning for Critical Networks"_](https://ieeexplore.ieee.org/document/11146355), 50th IEEE Conference on Local Computer Networks (LCN), 2025.
-3. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. 
-4. **D. Ergenç**, F. Dressler, [_"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_](https://ieeexplore.ieee.org/document/10925982), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025.
-5. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/document/10230175), International Conference on Computer Communications and Networks (ICCCN), 2023.
-6. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
-7. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
-8. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://ieeexplore.ieee.org/document/9789890), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
-9. **D. Ergenç** and M. Fischer, [_"On the Reliability of IEEE 802.1CB FRER"_](https://ieeexplore.ieee.org/abstract/document/9488750), IEEE International Conference on Computer Communications (INFOCOM), 2021.
-10. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"SDN-based Self-Configuration for Time-Sensitive IoT Networks"_](https://ieeexplore.ieee.org/document/9524979), 46th IEEE Conference on Local Computer Networks (LCN), 2021.
-11. G. Simsek, **D. Ergenç** and E. Onur, [_"Efficient Network Monitoring via In-band Telemetry"_](https://ieeexplore.ieee.org/abstract/document/9477344), 18th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
-12. **D. Ergenç**, J. Rak and M. Fischer, [_"Service-Based Resilience for Embedded IoT Networks"_](https://ieeexplore.ieee.org/abstract/document/9153441), 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
-13. **D. Ergenç**, L. Eksert and E. Onur, [_"Density-Aware Probabilistic Clustering in Ad Hoc Networks"_](https://ieeexplore.ieee.org/abstract/document/8433605), IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
+1. Ö. K. Demir, S. Cevher, **D. Ergenç**, "Analysis of Loop Free Alternates for Fault-Tolerant IEEE 802.1 TSN", 34th IEEE Signal Processing and Communications Applications (SIU), 2026.
+2. **D. Ergenç**, M. Zakrzewski, F. Dressler, ["Multi-Link Scheduling with Restricted Target Wake Time in Wi-Fi 7"](https://ieeexplore.ieee.org/document/11501786), 21th Wireless On-demand Network systems and Services Conference (WONS), 2026. 
+3. O. Wandschneider, A. Talpur, M. Fischer, **D. Ergenç**, [_"MITHRIL: Multi-Objective Topology Synthesis with Reinforcement Learning for Critical Networks"_](https://ieeexplore.ieee.org/document/11146355), 50th IEEE Conference on Local Computer Networks (LCN), 2025.
+4. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. 
+5. **D. Ergenç**, F. Dressler, [_"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_](https://ieeexplore.ieee.org/document/10925982), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025.
+6. **D. Ergenç**, F. Scheneider, P. Kling and M. Fischer, [_"Moving Target Defense in Service-oriented Mission-critical Networks"_](https://ieeexplore.ieee.org/document/10230175), International Conference on Computer Communications and Networks (ICCCN), 2023.
+7. **D. Ergenç**, D. Sorejevic and M. Fischer, [_"Distributed Bio-inspired Configuration of Virtualized Mission-critical Networks"_](https://ieeexplore.ieee.org/abstract/document/10001055), IEEE Global Communications Conference (GLOBECOM), 2022.
+8. P. Gawehn, **D. Ergenç** and M. Fischer, [_"Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems"_](https://ieeexplore.ieee.org/abstract/document/10001315), IEEE Global Communications Conference (GLOBECOM), 2022. 
+9. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"Towards SDN-based Dynamic Path Reconfiguration for Time-sensitive Networking"_](https://ieeexplore.ieee.org/document/9789890), 17th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2022. 
+10. **D. Ergenç** and M. Fischer, [_"On the Reliability of IEEE 802.1CB FRER"_](https://ieeexplore.ieee.org/abstract/document/9488750), IEEE International Conference on Computer Communications (INFOCOM), 2021.
+11. N. S. Bülbül, **D. Ergenç** and M. Fischer, [_"SDN-based Self-Configuration for Time-Sensitive IoT Networks"_](https://ieeexplore.ieee.org/document/9524979), 46th IEEE Conference on Local Computer Networks (LCN), 2021.
+12. G. Simsek, **D. Ergenç** and E. Onur, [_"Efficient Network Monitoring via In-band Telemetry"_](https://ieeexplore.ieee.org/abstract/document/9477344), 18th International Conference on the Design of Reliable Communication Networks (DRCN), 2021.
+13. **D. Ergenç**, J. Rak and M. Fischer, [_"Service-Based Resilience for Embedded IoT Networks"_](https://ieeexplore.ieee.org/abstract/document/9153441), 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020.
+14. **D. Ergenç**, L. Eksert and E. Onur, [_"Density-Aware Probabilistic Clustering in Ad Hoc Networks"_](https://ieeexplore.ieee.org/abstract/document/8433605), IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), 2018.
 
 ### Workshops, Posters, Demos
 
@@ -88,8 +89,9 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Talks
 
-1. **D. Ergenç** and N.S. Bülbül, [_"Tutorial: IEEE 802.1 Time-Sensitive Networking (TSN) Beyond Theory: Convergence, Resilience, and Practical Insights"_](https://ccnc2026.ieee-ccnc.org/node/12941), IEEE Consumer Communications & Networking Conference (CCNC), 2026.
-2. **D. Ergenç,** [_"Invited Talk: Towards Time-sensitive Wireless Networks: Challenges, Opportunities, and Research Directions"_](https://icnp24.cs.ucr.edu/assets/markdown/NPSM.html), 32nd IEEE International Conference on Network Protocols (ICNP) - Networking Protocols and Standards for Mobility (NPSM), 2024.
+1. **D. Ergenç** and N.S. Bülbül, [_"Tutorial: IEEE 802.1 Time-Sensitive Networking (TSN) Beyond Theory: Convergence, Resilience, and Practical Insights"_](https://netsoft2026.ieee-netsoft.org/tutorials), 12th IEEE International Conference on Network Softwarization (NetSoft), 2026.
+2. **D. Ergenç** and N.S. Bülbül, [_"Tutorial: IEEE 802.1 Time-Sensitive Networking (TSN) Beyond Theory: Convergence, Resilience, and Practical Insights"_](https://ccnc2026.ieee-ccnc.org/node/12941), IEEE Consumer Communications & Networking Conference (CCNC), 2026.
+3. **D. Ergenç,** [_"Invited Talk: Towards Time-sensitive Wireless Networks: Challenges, Opportunities, and Research Directions"_](https://icnp24.cs.ucr.edu/assets/markdown/NPSM.html), 32nd IEEE International Conference on Network Protocols (ICNP) - Networking Protocols and Standards for Mobility (NPSM), 2024.
 
 ### Editorials
 
@@ -137,6 +139,7 @@ Development of gameplay and UI modules at [Mount & Blade II: Bannerlord](https:/
 
 ### Organizational Duties
 
+[Co-organizer](https://www.resilient-worlds.org/blog/2024/10/23/second-resilient-worlds-research-school/), KuVS Research School on Network and System Resilience, 2026. \
 [Student Travel Grant Co-chair](https://events.vtsociety.org/vtc2026-spring/), 104th IEEE Vehicular Technology Conference (VTC2026-Fall), 2026. \
 [TPC Member](https://dsn2026.github.io/progcomm.html), 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026. \
 [TPC Member](https://wiopt2026.github.io/tpc.html), 24th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), 2026. \
@@ -165,6 +168,7 @@ _1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens
 
 ## Certificates and Courses
 
+Intuitive Decision Making, Berlin University Alliance, 2026. \
 Building Leadership Skills for Academia - a Workshop for Postdocs, TUB Scientific Continuing Education, 2024. \
 Paid to research: how to prepare successful fellowship applications, TUB Scientific Continuing Education, 2024. \
 Academic Choices - Achieving Success, Berlin University Alliance, 2023. \
