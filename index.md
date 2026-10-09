@@ -1,8 +1,8 @@
-I am a postdoctoral researcher in the Telecommunication Networks (TKN) group at the TU Berlin. I have been involved in various research projects for the last six years, including wireless networking, programmable networks, and network security and resilience. My current research interest is building failure- and attack-resilient mission-critical networks, particularly leveraging wired/wireless IEEE 802.1 Time-sensitive Networking (TSN) technologies. 
+I am a Senior Researcher in the Telecommunication Networks (TKN) group at TU Berlin. My research focuses on hybrid wired/wireless networks, in particular on bringing IEEE 802.1 Time-sensitive Networking (TSN) together with Wi-Fi and 5G. Resilience is the question I keep coming back to: how can mission-critical networks keep working in the face of failures, overload, and attacks? I also coordinate the [DFG Priority Programme SPP 2378 – Resilient Worlds](https://www.resilient-worlds.org/), which connects research projects across Germany around this question. I try to stay at the intersection of engineering and fundamental research, pairing working implementations with a principled understanding of why they work and how they could be improved.
 
 I like developing software to make my own life easier. I am also quite into literary criticism.
 
-<a href="mailto:doganalp.ergenc@uni-hamburg.de"><img src="img/gmail.svg" width="20" height="20"> </a>
+<a href="mailto:doganalp.ergenc@tu-berlin.de"><img src="img/gmail.svg" width="20" height="20"> </a>
 <a href="https://scholar.google.com/citations?user=kC44dDsAAAAJ&hl=en"><img src="img/scholar.svg" width="20" height="20"> </a>
 <a href="https://orcid.org/0000-0003-4640-031X"><img src="img/orcid.svg" width="20" height="20"> </a>
 <a href="https://www.linkedin.com/in/doganalpergenc/"><img src="img/linkedin.png" width="20" height="20"> </a>
@@ -20,7 +20,6 @@ Coordinator at the DFG Priority Programme SPP 2378 [Resilience in Connected Worl
 Coordinator at a working group in the BMBF-funded [6G-Platform Germany](https://www.6g-platform.com/)
 
 _**Doctoral Researcher**_, UHH, 2019-2023 \
-Research on zero-trust avionics systems at [RESISTANT: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs](https://www.inf.uni-hamburg.de/en/inst/ab/net/research/projects.html) \
 Research on virtualized and time-sensitive critical systems at [DELIA: Distributed, Extendable, Lightweight, Open, Reliable and Service-oriented Architecture for Next Generation Mobility](https://delia-project.com/) 
 
 _**Junior Researcher**_, METU, 2017-2019 \
@@ -42,14 +41,13 @@ Thesis: [Resilience of Service-oriented and Time-sensitive Mission-critical Netw
 _**MSc @ Computer Engineering**_, Middle East Technical University (METU), 2016-2018, _GPA: 3.92/4.00_ \
 Thesis: [Control and User Plane Separation in Ad-hoc Networks](https://open.metu.edu.tr/handle/11511/27577)
 
-_**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-2016, _GPA: 3.52/4.00_ \
-Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.edu.tr/2016/codemans/)
+_**BSc @ Computer Engineering**_, Middle East Technical University (METU), 2011-2016, _GPA: 3.52/4.00_
 
 ## Publications
 
 ### Journals
 
-1. **D. Ergenç**, T. Reisinger and F. Dressler, [_"Redundancy in WiFi 7: Combining Multi-link Operation with IEEE 802.1CB FRER"_](https://doi.org/10.1016/j.comcom.2025.108373), Computer Communications (COMCOM), 2025. 
+1. **D. Ergenç**, T. Reisinger and F. Dressler, [_"Redundancy in WiFi 7: Combining Multi-link Operation with IEEE 802.1CB FRER"_](https://doi.org/10.1016/j.comcom.2025.108373), Computer Communications (COMCOM), 2026. 
 2. J. Heinovski, **D. Ergenç**, K. Thommes and F. Dressler, [_"Incentive-based Platoon Formation: Optimizing the Personal Benefit for Drivers"_](https://www.tkn.tu-berlin.de/bib/heinovski2025incentive/heinovski2025incentive.pdf), IEEE Open Journal of Intelligent Transportation Systems (OJITS), 2025.
 3. M. Topsakal, S. Cevher and **D. Ergenç**, [_"A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"_](https://www.sciencedirect.com/science/article/abs/pii/S1383762125000803?via=ihub), Journal of Systems Architecture (JSA), 2025.
 4. **D. Ergenç**, A. Memedi, M. Fischer and F. Dressler, [_"Resilience in Edge Computing: Challenges and Concepts"_](https://www.tkn.tu-berlin.de/bib/ergenc2025resilience/ergenc2025resilience.pdf), Foundations and Trends in Networking, 2025.
@@ -60,7 +58,7 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 ### Conferences
 
 1. Ö. K. Demir, S. Cevher, **D. Ergenç**, "Analysis of Loop Free Alternates for Fault-Tolerant IEEE 802.1 TSN", 34th IEEE Signal Processing and Communications Applications (SIU), 2026.
-2. **D. Ergenç**, M. Zakrzewski, F. Dressler, ["Multi-Link Scheduling with Restricted Target Wake Time in Wi-Fi 7"](https://ieeexplore.ieee.org/document/11501786), 21th Wireless On-demand Network systems and Services Conference (WONS), 2026. 
+2. **D. Ergenç**, M. Zakrzewski, F. Dressler, ["Multi-Link Scheduling with Restricted Target Wake Time in Wi-Fi 7"](https://ieeexplore.ieee.org/document/11501786), 21st Wireless On-demand Network systems and Services Conference (WONS), 2026. 
 3. O. Wandschneider, A. Talpur, M. Fischer, **D. Ergenç**, [_"MITHRIL: Multi-Objective Topology Synthesis with Reinforcement Learning for Critical Networks"_](https://ieeexplore.ieee.org/document/11146355), 50th IEEE Conference on Local Computer Networks (LCN), 2025.
 4. M. Topsakal, S. Cevher, A. J. Kassler and **D. Ergenç**, [_"A Cost-Effective Statistical Learning Approach for Detection of DoS and Fuzzy Attacks in CAN"_](https://ieeexplore.ieee.org/document/11207034), 10th International Conference on Computer Science and Engineering (UBMK), 2025. 
 5. **D. Ergenç**, F. Dressler, [_"An Open Source Implementation of Wi-Fi 7 Multi-Link Operation in OMNeT++"_](https://ieeexplore.ieee.org/document/10925982), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025.
@@ -112,25 +110,26 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 ### Open-source Software
 
 1. [Integration](https://github.com/tkn-tub/wifi-tsn-linux) of IEEE 802.1Qbv into the Wi-Fi stack in Linux kernel
-2. [Implementation](https://github.com/tkn-tub/wifi-frer-mlo-omnet) of IEEE 802.1CB FRER over Wi-Fi 7 MLO in OMNeT++.
-3. [Implementation](https://github.com/tkn-tub/wifi-mlo-omnet) of multi-link operation (MLO) feature for Wi-Fi 7 in OMNeT++.
-4. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
-5. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
+2. [Implementation](https://github.com/tkn-tub/wifi-rtwt-mlo-omnet) of Restricted Target Wake Time (R-TWT) over MLO in OMNeT++.
+3. [Implementation](https://github.com/tkn-tub/wifi-frer-mlo-omnet) of IEEE 802.1CB FRER over Wi-Fi 7 MLO in OMNeT++.
+4. [Implementation](https://github.com/tkn-tub/wifi-mlo-omnet) of multi-link operation (MLO) feature for Wi-Fi 7 in OMNeT++.
+5. [TSNZeek](https://github.com/UHH-ISS/tsnzeek), a monitoring and intrusion detection system for IEEE 802.1 Time-sensitive Networking (TSN) based on Zeek.
+6. [Implementation](https://github.com/UHH-ISS/omnet-802.1cb) of IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER) in OMNeT++.
 
 ## Professional Activities
 
 ### Supervision
 
 1. Maximilian Schultz, _"End-to-end Network Slicing in Hybrid TSN-WiFi Networks"_, Master Thesis, TU Berlin, 2026. (ongoing)
-2. Emre Özküçük, _"End-to-End Redundancy for Hybrid 5G-TSN Networks"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
-3. Erik Luger, _"Priority-aware and Multi-link Restricted Target Wake Time in Wi-Fi 7"_, Bachelor Thesis, TU Berlin, 2026. (ongoing)
+2. Nick V. Hainke, _"	On the Feasibility and Adaptability of IEEE 802.1 TSN Shapers over Wi-Fi on Linux"_, Master Thesis, TU Berlin, 2026. (ongoing)
+3. Erik Luger, _"Priority-aware and Multi-link Restricted Target Wake Time in Wi-Fi 7"_, Bachelor Thesis, TU Berlin, 2026. 
 4. Ahmed Abdulfattah, _"Enabling Time-sensitive Scheduling over Hybrid TSN-WiFi Networks in Linux"_, Master Thesis, TU Berlin, 2025.
 5. Julius Kuper, _"Enabling IEEE 802.1 Time-sensitive Networking Scheduling over Wi-Fi Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
 6. Emile Pescher, _"Investigating Synchronous Transmission and Reception Strategies of Wi-Fi 7 Multi-link Operation"_, Bachelor Thesis, TU Berlin, 2025. 
 7. Mateusz Zakrzewski, _"Leveraging TWT in Wi-Fi 7 MLO for Time-sensitive Wireless Networking"_, Bachelor Thesis, TU Berlin, 2025. 
-8. Johanes Albert Smohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. 
+8. Johanes Albert Simohartono, _"Towards Ultra-reliable Wi-Fi: Adaptive Redundancy for Mixed-criticality Traffic via Wi-Fi 7 Multi-link Operation (MLO)"_, Master Thesis, TU Berlin, 2025. 
 9. Tobias Reisinger, _"Enabling Fault Tolerance over Wi-Fi Multi-link Operation (MLO) in OMNeT++"_, Bachelor Thesis, TU Berlin, 2024.
-10. Oliver Wandscheneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
+10. Oliver Wandschneider, _"Resilient Time-sensitive Network Topology Design with Reinforcement Learning"_, Master Thesis, UHH, 2024.
 11. Daniel Soltis, _"Context-Adaptive Computational Offloading for Distributed Nature-Inspired Algorithms in Heterogeneous Edge Environments"_, Master Thesis, UHH, 2023.
 12. Jasper Schwarzwald, _"Using Best-effort Computing to Optimize Cluster Utilization”_, Bachelor Thesis, UHH, 2023. 
 13. Daniel Sorejevic, _"Distributed Configuration of Mission-critical Embedded Networks"_, Master Thesis, UHH, 2022.
@@ -139,18 +138,20 @@ Project: [Persona: Cross-platform Device Connectivity](https://senior.ceng.metu.
 
 ### Organizational Duties
 
-[Co-organizer](https://www.resilient-worlds.org/blog/2024/10/23/second-resilient-worlds-research-school/), KuVS Research School on Network and System Resilience, 2026. \
+[Co-organizer](https://www.resilient-worlds.org/blog/2026/10/05/kuvs-research-school-on-network-and-system-resilience/), KuVS Research School on Network and System Resilience, 2026. \
+[TPC Member](https://sites.google.com/view/4s-net2026/), International Workshop on Emerging Trade-offs in Networking: Sovereignty, Security, ReSilience, and Sustainability (4S-Net) in 22nd International Conference on Network and Service Management (CNSM), 2026. \
+[TPC Member](https://globecom2026.ieee-globecom.org/events/ws-09-2nd-globecom-workshop-resilience-next-generation-wireless-communication-networks), 2nd Workshop on Resilience in Next-Generation Wireless Communication Networks (ResNets) in IEEE Global Communications Conference (GLOBECOM), 2026. \
 [Student Travel Grant Co-chair](https://events.vtsociety.org/vtc2026-spring/), 104th IEEE Vehicular Technology Conference (VTC2026-Fall), 2026. \
 [TPC Member](https://dsn2026.github.io/progcomm.html), 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026. \
 [TPC Member](https://wiopt2026.github.io/tpc.html), 24th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), 2026. \
-[TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks in IEEE Global Communications Conference (GLOBECOM), 2025. \
+[TPC Member](https://globecom2025.ieee-globecom.org/workshop/ws-21-workshop-resilience-next-generation-wireless-communication-networks), Workshop on Resilience in Next-Generation Wireless Communication Networks (ResNets) in IEEE Global Communications Conference (GLOBECOM), 2025. \
 [Co-chair](https://ew2025.european-wireless.org/special-sessions), Special Session on Resilience in Communication Systems at European Wireless, 2025. \
 [Guest Editor](https://www.sciencedirect.com/science/article/pii/S1573427725000074?via%3Dihub), Special Issue in Optical Switching and Networking: From design to recovery: Insights on resilient networks from RNDM 2023, 2025. \
 [Co-chair](https://www.resilient-worlds.org/renesys/), 1st Workshop on Resilient Networks and Systems (ReNeSys) in International Conference on Networked Systems (NetSys), 2025. \
 [TPC Member](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/kuvs-fg-netsoft/2025/committee/), 4. GI/ITG KuVS Fachgespräch "Network Softwarization" (KuVS FG NetSoft), 2025. \
 [TPC Member](https://etfa2025.ieee-ies.org/files/tracks/ETFA2025_TT02-IndustrialCommunicationTechnologiesAndSystems_CfP.pdf), Industrial Communication
 Technologies and Systems Track in 30th IEEE International Conference on Emerging Technologies for Factory Automation (ETFA), 2025. \
-[TPC Member](http://www.icccn.org/icccn25/committeesandtracks/technical-tracks/track1.html), 34rd International Conference on Computer Communications and Networks (ICCCN), 2025. \
+[TPC Member](http://www.icccn.org/icccn25/committeesandtracks/technical-tracks/track1.html), 34th International Conference on Computer Communications and Networks (ICCCN), 2025. \
 [Publicity Chair](https://2025.wons-conference.org/), 20th Wireless On-demand Network systems and Services Conference (WONS), 2025. \
 [TPC Member](https://icnp24.cs.ucr.edu/assets/markdown/NPSM.html), Workshop on Networking Protocols and Standards for Mobility (NPSM) in 32nd IEEE International Conference on Network Protocols (ICNP), 2024. \
 [Organizer](https://www.resilient-worlds.org/blog/2024/10/23/second-resilient-worlds-research-school/), 2nd Resilient Worlds Research School: Building Resilient Worlds - in Career and Research, 2024. \
@@ -163,9 +164,10 @@ Technologies and Systems Track in 30th IEEE International Conference on Emerging
 Selected as one of the ["Outstanding Dissertations in Computer Science"](https://dl.gi.de/collections/8a89b931-32cf-4a39-97a9-dc0630d5ace3) by German Informatics Society, 2024. \
 PhD with highest honor (_Summa cum Laude_), 2023. \
 INFOCOM _Student Travel Grant_, 2021.  \
-Graduated _4th out of 270_ students at METU, 2016.  \
+Graduated _4th out of 174_ students at METU, 2016.  \
 _1st place_ at [Siemens Industrial Hackathon](https://www.endustri40.com/siemens-hackathon-yarismasinin-kazananlari-belli-oldu/) with [Predictive Fault Tracker for Industry 4.0](https://github.com/TeamProxima/predictive-fault-tracker), 2016.
 
+<!--
 ## Certificates and Courses
 
 Intuitive Decision Making, Berlin University Alliance, 2026. \
@@ -176,3 +178,4 @@ Mental Clarity & Decision Making, Hamburg Research Academy, 2023. \
 Funding Opportunities in the Postdoctoral Phase, Hamburg Research Academy, 2023. \
 Presentation and Public Speaking for Virtual Stage, Hamburg Research Academy, 2021. \
 Self- and Time Management, Hamburg Research Academy, 2021.
+-->
